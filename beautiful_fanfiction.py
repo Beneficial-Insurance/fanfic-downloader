@@ -20,25 +20,31 @@ def verify_url(message):
         else:
             print('The Url was not valid')
 #Download Fanfic page
-res = requests.get(verify_url('Please enter url for the fanfic'))
-#Check that the download works properly
-res.raise_for_status()
-#Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
-fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
+def download_fanfic():
+    res = requests.get(verify_url('Please enter url for the fanfic. \n'))
+    #Check that the download works properly
+    res.raise_for_status()
+    #Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
+    fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
+    return fanfiction_soup
 #Rips out all the text within the .storytextp div
-text = fanfiction_soup.select('.storytextp p')
-#Prints the fanfiction.
-#print(text)
-#WTF is this actually?
-#print(type(text))
-#It's a class. God damnit, they look really useful. I'll have to see about incorperating them later.
-total_length_of_fic = len(text)
-fanfiction_text = str(text)
-print(fanfiction_text)
-print_text = fanfiction_text.replace('<p>', '    ')
-print_text = print_text.replace('</p>,', '\n\n')
-print(print_text)
+def get_text():
+    print(type(fanfiction_soup))
+    text = fanfiction_soup.select('.storytextp p')
+    total_length_of_fic = len(text)
+    fanfiction_text = str(text)
+    #print(fanfiction_text)
+    #This is the regex to find all <p> and <p blah blah class and code> tags '<p([^>])*>'
+    print_text = fanfiction_text.replace('<p>', '    ')
+    print_text = print_text.replace('</p>,', '\n\n')
+    #print(print_text)
+    return print_text
 #Save file as... ./fanfic
-text_file = open("HarryAndDaphne.txt", "w")
-n = text_file.write(print_text)
-text_file.close
+def save_file():
+    text_file = open("HarryAndDaphne.txt", "w")
+    n = text_file.write(print_text)
+    text_file.close
+#I suppose this is where init main() goes in c?
+fanfiction_soup = download_fanfic()
+print_text = get_text()
+save_file()
