@@ -22,26 +22,27 @@ def verify_url(message):
 #Download Fanfic page
 def download_fanfic():
     res = requests.get(verify_url('Please enter url for the fanfic. \n'))
-    #Check that the download works properly
-    if res.raise_for_status():
+    #Check that the download url goes to a page that returns the 200 ok status (The page exists)
+    #Unfortunately, every ffn page returns 200 okay, that site was coded by a fuckwit
+    if res.status_code == requests.codes.ok:
         #Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
         fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
         return fanfiction_soup
-
     else:
-        print('No More Fanfic to download. Or there was no fanfic on the url that was given.')
+        print('Something wen\'t wrong.')
         exit()
 #Rips out all the text within the .storytextp div
 def get_text():
-    print(type(fanfiction_soup))
     print_text = str(fanfiction_soup.select('.storytextp p'))
-    #print(fanfiction_text)
     #This is the regex to find all <p> and <p blah blah class and code> tags '<p([^>])*>'
     print_text = re.sub('\[?<p([^>])*>', '    ', print_text)
     print_text = re.sub('</p>]?,?', '\n\n', print_text)
+    #Do I really need to do this multiple times or am I just useless at finding simple sollutions?
     print_text = re.sub('<.*[^ ]>', '', print_text)
     print(print_text)
     return print_text
+def get_title():
+    print_title = str(fanfiction_soup.select(''))
 #Save file as... ./fanfic
 def save_file():
     text_file = open("HarryAndDaphne.txt", "w")
