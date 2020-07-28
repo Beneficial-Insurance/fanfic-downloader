@@ -12,7 +12,7 @@ def verify_url(message):
     while True:
         fanfic_url = str(input(message))
         #Verifies that the start of the script is https://blah blah/story id/title
-        verify = re.match('^(https://www.fanfiction.net/s/)(\d)*.*', fanfic_url)
+        verify = re.match('^(https://www.fanfiction.net/s/)(\d)*.*',fanfic_url)
         #verify = re.match('(\d)', fanfic_url)
         if verify:
             return fanfic_url
