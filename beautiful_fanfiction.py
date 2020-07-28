@@ -23,10 +23,14 @@ def verify_url(message):
 def download_fanfic():
     res = requests.get(verify_url('Please enter url for the fanfic. \n'))
     #Check that the download works properly
-    res.raise_for_status()
-    #Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
-    fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
-    return fanfiction_soup
+    if res.raise_for_status():
+        #Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
+        fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
+        return fanfiction_soup
+
+    else:
+        print('No More Fanfic to download. Or there was no fanfic on the url that was given.')
+        exit()
 #Rips out all the text within the .storytextp div
 def get_text():
     print(type(fanfiction_soup))
