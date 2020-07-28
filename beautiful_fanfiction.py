@@ -30,14 +30,13 @@ def download_fanfic():
 #Rips out all the text within the .storytextp div
 def get_text():
     print(type(fanfiction_soup))
-    text = fanfiction_soup.select('.storytextp p')
-    total_length_of_fic = len(text)
-    fanfiction_text = str(text)
+    print_text = str(fanfiction_soup.select('.storytextp p'))
     #print(fanfiction_text)
     #This is the regex to find all <p> and <p blah blah class and code> tags '<p([^>])*>'
-    print_text = fanfiction_text.replace('<p>', '    ')
-    print_text = print_text.replace('</p>,', '\n\n')
-    #print(print_text)
+    print_text = re.sub('\[?<p([^>])*>', '    ', print_text)
+    print_text = re.sub('</p>]?,?', '\n\n', print_text)
+    print_text = re.sub('<.*[^ ]>', '', print_text)
+    print(print_text)
     return print_text
 #Save file as... ./fanfic
 def save_file():
