@@ -20,14 +20,22 @@ def verify_url(message):
         else:
             print('The Url was not valid')
 #Download Fanfic page
-def download_fanfic():
-    res = requests.get(verify_url('Please enter url for the fanfic. \n'))
+def download_fanfic(message):
+    res = requests.get(verify_url(str(message)))
     #Check that the download url goes to a page that returns the 200 ok status (The page exists)
-    #Unfortunately, every ffn page returns 200 okay, that site was coded by a fuckwit
+    #Unfortunately, every ffn page returns 200 okay, that site was coded by a fuckwit. I'm gonna have to find a different method to make sure fanfic exists
     if res.status_code == requests.codes.ok:
         #Create a Beautiful Soup object, uses ibuilt (I think?) Html parser.
         fanfiction_soup = bs4.BeautifulSoup(res.text, 'html.parser')
-        return fanfiction_soup
+        #Do I have to do this or can regex search whatever the data is before I turn it into a string? I have no clue, and I don't care.
+        check = str((res.text.encode('utf8')))
+        #Searches for the Story Not Found text that happens when a fic is requested that doesn't exist. There is probably a better way to do this but eh
+        if re.search('Story Not Found', check) is None:
+            print('Hi')
+            return fanfiction_soup
+        else:
+            print('ERROR The URL requested does not have a fanfic on it.\nStopping Download')
+            exit()
     else:
         print('Something wen\'t wrong.')
         exit()
@@ -36,10 +44,10 @@ def get_text():
     print_text = str(fanfiction_soup.select('.storytextp p'))
     #This is the regex to find all <p> and <p blah blah class and code> tags '<p([^>])*>'
     print_text = re.sub('\[?<p([^>])*>', '    ', print_text)
+    #This regex finds all </p> tags that are then replaced by \n\n
     print_text = re.sub('</p>]?,?', '\n\n', print_text)
-    #Do I really need to do this multiple times or am I just useless at finding simple sollutions?
+    #Finds all the inline style that ffn uses. What are they from, the dark ages?
     print_text = re.sub('<.*[^ ]>', '', print_text)
-    print(print_text)
     return print_text
 def get_title():
     print_title = str(fanfiction_soup.select(''))
@@ -49,6 +57,6 @@ def save_file():
     n = text_file.write(print_text)
     text_file.close
 #I suppose this is where init main() goes in c?
-fanfiction_soup = download_fanfic()
+fanfiction_soup = download_fanfic('Please enter the url of the fanfic that you want to download \n')
 print_text = get_text()
 save_file()
