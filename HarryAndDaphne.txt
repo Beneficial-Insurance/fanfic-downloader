@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8"/>
+<meta content="NOARCHIVE" name="ROBOTS"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="app-id=1192753879" name="apple-itunes-app"/>
+<link href="//adservice.google.com" rel="preconnect"/>
+<link href="//googleads.g.doubleclick.net" rel="preconnect"/><meta content="azVIufmnM70GVsbIzGiT1xm8Au0WPBFf0rtJ-puqSQM" name="google-site-verification"><meta content="width=device-width" name="viewport"/><link href="//www.fanfiction.net/s/11697407/1/Contractual-Invalidation" rel="canonical"/>
+<title>Contractual Invalidation Chapter 1: How to Break Your Contract: 5 Easy Steps, a harry potter fanfic | FanFiction</title>
+<link href="/static/images/favicon_2010_site.ico" rel="shortcut icon"/>
+<link href="/static/images/favicon_2010_site.png" rel="icon" type="image/png"/>
+<link href="/static/images/favicon_2010_iphone.png" rel="apple-touch-icon"/>
+<link href="/static/styles/xss26.css" rel="stylesheet"/>
+<script src="/static/scripts/combo5.js"></script>
+<!--[if lt IE 8]>
+        <link rel="stylesheet" href="/cors/fontello-f1bf7dee/css/fontello-ie7.css">
+        <script src='/static/scripts/json2.min.js'></script>
+        <![endif]-->
+<script>
+        xcookie_read();
+        xfont_auto_loader();
+        if(XCOOKIE.gui_font != 'Open Sans') {
+            document.write('<style>body{font-family:"'+XCOOKIE.gui_font+'",Verdana, Arial;}</style>');
+        }
+        </script>
+<!-- startz --><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- endz -->
+<style>
+        .dropdown-menu > li > a { padding: 3px 50px 3px 30px; }
+body { min-width:750px; height:100%; }
+.maxwidth { min-width:730px;margin-left:auto;margin-right:auto;}
+            
+
+
+        </style>
+<script>
+        if(isAndroid && !isChrome) {
+            document.write('<style> body {font-size:1em;}</style>');
+        }
+        </script>
+<script>
+
+                        xauto_width_init();
+                        xauto_fontsize();
+
+                        if(!isIphone && !isIpad) {
+                            $(function() {
+                                $(window).resize(xauto_width);
+                            });
+                        }
+
+                    </script></meta></head><body style="background-color:#E4E3D5;margin-top:0px;"><script>xfont_fix_smooth();</script>
+<div id="top" style="width:100%;background-color: #333399; ">
+<div class="menulink maxwidth" style="padding:0.5em 10px 0.5em 10px; vertical-align:middle;">
+<script>
+//init jquery
+if (!window.jQuery) {
+  var jq = document.createElement('script'); jq.type = 'text/javascript';
+  jq.src = '//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js';
+  document.getElementsByTagName('head')[0].appendChild(jq);
+  console.log('loading preq: jquery');
+}
+
+
+ var _fp = {
+    logout : function() {
+            $.get('/logout.php', function() {
+            console.log('starting logout');
+                     var m = $('#_fp_modal_logged_out');
+                    if(!m.length) {
+                        $('body').append("<div id='_fp_modal_logged_out' data-backdrop='static' class='modal fade hide'><div class='modal-body'><div align=cener>You have successfully logged out. <span onClick='' type=button class='btn icon-edit-1'>Login</span> <span onClick='' type=button class='btn icon-edit-1'>Stay on this Page</span></div></div></div>");
+                        m = $('#_fp_modal_logged_out');
+                    }
+
+                    m.modal();
+
+                     console.log('modal finished');
+                    //xtoast('You have been logged out.');
+                    if(_fp.cb_loggedout) _fp.cb_loggedout();
+                     console.log('callback complete');
+            })
+          .fail(function() {
+            //m.modal('hide');
+            xtoast('An error has ocurred. Please try again later.');
+          });
+            //
+    }
+};
+
+//real function
+
+
+        </script>
+<script>
+function render_login(uname) {
+     var s = "<a href='/login.php?cache=bust' style='color:orange;'>"+uname+"</a> | <span id='' xonClick='_fp.logout();' onclick=\"location = '/logout.php';\" style='color:white;cursor: pointer;'>Logout</span>";
+     return s;
+}
+
+</script>
+<span class="pull-right" id="name_login">
+<script>
+if(XUNAME) {
+    document.write(render_login(XUNAME));
+}
+else {
+    document.write("<a href='/login.php?cache=bust' style='color:white;'><span class='icon-lock' style='font-size:15px;position:relative;top:1px'></span> Login</a> | <a href='/signup.php' style='color:white;'>Sign Up</a>");
+}
+</script></span><a href="/" style="font-size:1.1em;border:none;">FanFiction</a>  <small>|</small>  unleash your imagination <span class="icon-kub-mobile" onclick="location = '//m.fanfiction.net/m/yes_mobile.php'" style="font-size:14px;margin-left:10px;" title="Mobile Edition"></span><span class="icon-tl-text" onclick="_fontastic_init('ui'); $('#_fontastic_ui').modal('show');" style="font-size:14px;margin-left:10px;" title="Fontastic Panel: UI Settings"></span></div>
+</div>
+<div class="zmenu" style="width:100%;">
+<div class="maxwidth" id="zmenu" style="vertical-align:middle;padding:5px;">
+<span class="zui">
+<!-- new stuff -->
+<table class="maxwidth"><tr><td valign="middle">
+<div class="dropdown xmenu_item">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Browse <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li class="disabled" style="text-align:center"><a href="#">Stories</a></li>
+<li><a href="/anime/">Anime</a></li>
+<li><a href="/book/">Books</a></li>
+<li><a href="/cartoon/">Cartoons</a></li>
+<li><a href="/comic/">Comics</a></li>
+<li><a href="/game/">Games</a></li>
+<li><a href="/misc/">Misc</a></li>
+<li><a href="/play/">Plays</a></li>
+<li><a href="/movie/">Movies</a></li>
+<li><a href="/tv/">TV</a></li>
+<li class="disabled" style="text-align:center"><a href="#">Crossovers</a></li>
+<li><a href="/crossovers/anime/">Anime</a></li>
+<li><a href="/crossovers/book/">Books</a></li>
+<li><a href="/crossovers/cartoon/">Cartoons</a></li>
+<li><a href="/crossovers/comic/">Comics</a></li>
+<li><a href="/crossovers/game/">Games</a></li>
+<li><a href="/crossovers/misc/">Misc</a></li>
+<li><a href="/crossovers/play/">Plays</a></li>
+<li><a href="/crossovers/movie/">Movies</a></li>
+<li><a href="/crossovers/tv/">TV</a></li>
+</ul>
+</div>
+<div class="dropdown xmenu_item">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Just In <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/j/0/0/0/">All</a></li>
+<li><a href="/j/0/1/0/">Stories: New</a><li>
+<li><a href="/j/0/2/0/">Stories: Updated</a></li>
+<li class="divider"></li>
+<li><a href="/j/0/3/0/">Crossovers: New</a><li>
+<li><a href="/j/0/4/0/">Crossovers: Updated</a><li>
+</li></li></li></li></li></li></ul>
+</div>
+<div class="dropdown xmenu_item">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Community <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/communities/general/0/">General</a></li>
+<li><a href="/communities/anime/">Anime</a></li>
+<li><a href="/communities/book/">Books</a></li>
+<li><a href="/communities/cartoon/">Cartoons</a></li>
+<li><a href="/communities/comic/">Comics</a></li>
+<li><a href="/communities/game/">Games</a></li>
+<li><a href="/communities/misc/">Misc</a></li>
+<li><a href="/communities/movie/">Movies</a></li>
+<li><a href="/communities/play/">Plays</a></li>
+<li><a href="/communities/tv/">TV</a></li>
+</ul>
+</div>
+<div class="dropdown xmenu_item">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Forum <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/forums/general/0/">General</a></li>
+<li><a href="/forums/anime/">Anime</a></li>
+<li><a href="/forums/book/">Books</a></li>
+<li><a href="/forums/cartoon/">Cartoons</a></li>
+<li><a href="/forums/comic/">Comics</a></li>
+<li><a href="/forums/game/">Games</a></li>
+<li><a href="/forums/misc/">Misc</a></li>
+<li><a href="/forums/movie/">Movies</a></li>
+<li><a href="/forums/play/">Plays</a></li>
+<li><a href="/forums/tv/">TV</a></li> </ul>
+</div>
+<div class="dropdown xmenu_item">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Betas <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li class="disabled" style="text-align:center"><a href="#">All</a></li>
+<li><a href="/betareaders/all/anime/">Anime</a></li>
+<li><a href="/betareaders/all/book/">Books</a></li>
+<li><a href="/betareaders/all/cartoon/">Cartoons</a></li>
+<li><a href="/betareaders/all/comic/">Comics</a></li>
+<li><a href="/betareaders/all/game/">Games</a></li>
+<li><a href="/betareaders/all/misc/">Misc</a></li>
+<li><a href="/betareaders/all/play/">Plays</a></li>
+<li><a href="/betareaders/all/movie/">Movies</a></li>
+<li><a href="/betareaders/all/tv/">TV</a></li>
+<li class="disabled" style="text-align:center"><a href="#">Specific</a></li>
+<li><a href="/betareaders/anime/">Anime</a></li>
+<li><a href="/betareaders/book/">Books</a></li>
+<li><a href="/betareaders/cartoon/">Cartoons</a></li>
+<li><a href="/betareaders/comic/">Comics</a></li>
+<li><a href="/betareaders/game/">Games</a></li>
+<li><a href="/betareaders/misc/">Misc</a></li>
+<li><a href="/betareaders/play/">Plays</a></li>
+<li><a href="/betareaders/movie/">Movies</a></li>
+<li><a href="/betareaders/tv/">TV</a></li>
+</ul>
+</div>
+</td>
+<td valign="middle">
+<script>
+                $(document).ready(function() {
+                    $('.xdrop_search').click(function() {
+                        var v = $(this).html();;
+
+                        $('#search_type').val(v.toLowerCase());
+                        $('#search_head').html(v);
+                    });
+
+                    $('#search_keywords').onEnterKey(function(){
+                        $('form#search_form').submit();
+                    });
+
+                });
+
+            </script>
+<form action="/search/" class="pull-right" id="search_form" method="get">
+<div class="input-prepend">
+<div class="btn-group">
+<button class="btn dropdown-toggle" data-toggle="dropdown">
+<span id="search_head">Story</span>
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu">
+<li><a class="xdrop_search" href="#">Story</a></li>
+<li><a class="xdrop_search" href="#">Writer</a></li>
+<li><a class="xdrop_search" href="#">Forum</a></li>
+<!-- <li class='divider'></li> -->
+<li><a class="xdrop_search" href="#">Community</a></li>
+</ul>
+</div>
+<input class="span2" id="search_keywords" name="keywords" placeholder="Search" title="Search" type="text"/>
+<!--  input-append <button class='btn' type='submit'>Go</button> -->
+</div>
+<!-- <input class=searchfield type=text name='keywords' placeholder='Search' title='Search' style='width:100px'> -->
+<input name="ready" type="hidden" value="1"/>
+<input id="search_type" name="type" type="hidden" value="story"/>
+</form>
+</td>
+</tr>
+</table>
+</span>
+</div>
+</div>
+<div class="xcontrast_outer" id="content_parent" style="width:100%;"><div class="xcontrast maxwidth" id="content_wrapper" style="background-color: white;"><div id="content_wrapper_inner" style="padding:0.5em;">
+<script>
+if(XCOOKIE.read_theme == 'dark') {
+     $(function(){
+        _fontastic_change_theme('dark');
+
+     });
+ }
+ else if(XCOOKIE.read_light_texture) {
+   _fontastic_change_texture(XCOOKIE.read_light_texture);
+ }
+
+ </script><div class="lc-wrapper" id="pre_story_links" style="margin-bottom: 10px"><span class="lc-left"><a class="xcontrast_txt" href="/book/">Books</a><span class="xcontrast_txt icon-chevron-right xicon-section-arrow"></span><a class="xcontrast_txt" href="/book/Harry-Potter/">Harry Potter</a>
+</span>
+</div>
+<script>
+//_fontastic_theme_css();
+
+function toggleTheme() {
+    if(XCOOKIE.read_theme == 'light') {
+        _fontastic_change_theme('dark');
+    }
+    else {
+        _fontastic_change_theme('light');
+    }
+}
+</script><div class="hide modal fade" id="img_large" style="color:black;"><div align="center" class="modal-body"><img class="lazy cimage" data-original="//ff74.b-cdn.net/image/3706310/180/" height="240" src="//ff74.b-cdn.net/static/images/d_60_90.jpg" style="padding:2px;border:1px solid #ccc;-moz-border-radius:2px;-webkit-border-radius:2px;" width="180"/></div></div><div id="profile_top" style="min-height:112px;"><span onclick="var t = $('#img_large img');t.prop('src',t.attr('data-original'));$('#img_large').modal();" style="cursor:pointer;" title="Click for Larger Image"><img class="cimage" height="100" src="//ff74.b-cdn.net/image/3706310/75/" style="clear:left;float:left;margin-right:3px;padding:2px;border:1px solid #ccc;-moz-border-radius:2px;-webkit-border-radius:2px;" width="75"/></span><button class="btn pull-right icon-heart" onclick='$("#follow_area").modal();' type="button"> Follow/Fav</button><b class="xcontrast_txt">Contractual Invalidation</b>
+<span class="xcontrast_txt"><div style="height:5px"></div>By:</span> <a class="xcontrast_txt" href="/u/2057121/R-dude">R-dude</a> <span class="icon-mail-1 xcontrast_txt"></span> <a class="xcontrast_txt" href="https://www.fanfiction.net/pm2/post.php?uid=2057121" title="Send Private Message"></a>
+<div class="xcontrast_txt" style="margin-top:2px">In which pureblood tradition doesn't always favor the purebloods.</div>
+<span class="xgray xcontrast_txt">Rated: <a class="xcontrast_txt" href="https://www.fictionratings.com/" target="rating">Fiction  T</a> - English - Suspense -  Harry P., Daphne G. - Chapters: 7   - Words: 90,127 - Reviews: <a href="/r/11697407/">930</a> - Favs: 6,126 - Follows: 3,801 - Updated: <span data-xutime="1483740672">1/6/2017</span> - Published: <span data-xutime="1451330502">12/28/2015</span> - Status: Complete - id: 11697407 </span>
+</div>
+<div ;'="" align="center" class="lc-wrapper" style="margin-top:2em"><div class="lc">
+<span class="xcontrast_txt"><span class="icon-tl-text" onclick="_fontastic_change_size('u');" style="font-size:14px;cursor:pointer;" title="+ Font Size"></span>+</span>  <span class="xcontrast_txt"><span class="icon-tl-text" onclick="_fontastic_change_size('d');" style="font-size:14px;cursor:pointer;" title="- Font Size"></span>-</span>  <span class="icon-tl-text xcontrast_txt" onclick="_fontastic_init('reading');$('#_fontastic_reading').modal('show');" style="font-size:14px;cursor:pointer;" title="Fonts"></span>  
+
+<span class="icon-align-justify xcontrast_txt" onclick="$('#f_width').slideToggle();" style="font-size:14px" title="Story Width"></span> <span class="hide xcontrast_txt" id="f_width"><span onclick="_fontastic_change_width(100);">Full</span> <span onclick="_fontastic_change_width(75);">3/4</span> <span onclick="_fontastic_change_width(50);">1/2</span></span>    <span class="icon-tl-text-height xcontrast_txt" onclick="$('#f_size').slideToggle();" style="font-size:14px;cursor:pointer;" title="Line Spacing"></span> <span class="hide xcontrast_txt" id="f_size"> <span onclick='_fontastic_change_line_height("u");'>Expand</span> <span onclick='_fontastic_change_line_height("d");'>Tighten</span></span>  <span align="absmiddle" class="xcontrast_txt icon-tl-contrast" onclick="toggleTheme();" style="margin-left:2px;margin-right:2px;font-size:14px;" title="Story Contrast"></span></div></div>
+<span style="float:right; "> <select id="chap_select" name="chapter" onchange="self.location = '/s/11697407/'+ this.options[this.selectedIndex].value + '/Contractual-Invalidation';" title="Chapter Navigation"><option selected="" value="1">1. How to Break Your Contract: 5 Easy Steps<option value="2">2. Step 1: Reconnaissance<option value="3">3. Step 2: Offensive Action<option value="4">4. Step 3: Tactical Reevaluation<option value="5">5. Step 3,5: Counterattack<option value="6">6. Step 4: The Element of Surprise<option value="7">7. Step 5: Victory</option></option></option></option></option></option></option></select> <button class="btn" onclick="self.location='/s/11697407/2/Contractual-Invalidation'" type="BUTTON">Next &gt;</button></span><div style="height:5px"></div><script>
+document.write('<style> .storytext { max-height: 999999px; width: '+XCOOKIE.read_width+'%; font-size:' + XCOOKIE.read_font_size + 'em; font-family: "'+XCOOKIE.read_font+'"; line-height: '+XCOOKIE.read_line_height+'; text-align: left;} </style>');
+
+$(function() {
+    $.get('/eye/1/1/44723274/11697407/');
+});
+</script>
+<div align="center" aria-label="story content" class="storytextp" id="storytextp" role="main" style="padding:0 0.5em 0 0.5em;">
+<div class="storytext xcontrast_txt nocopy" id="storytext"><p><strong>Note: </strong>This story had been the victim of a well known plagiarist who, besides me, likes to target DLP authors and copy dozens of stories on several accounts. It has recently been taken down, but the guy is nothing if not tenacious. This is the original, and I am the original author. If you encounter this story anywhere else, please notify me and make sure to report such to the administrators.</p><p>The girl in the picture is Victoria Coleman.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><p style="text-align:center;"><strong>How to Break Your Contract in Five Easy Steps</strong></p><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>The Auror office was a peculiar place. It was the main sub-section of the Department of Magical Law Enforcement, it took up most of Level Two of the Ministry of Magic building, and had the most renown among the public. However, the actual way the Office functioned was not widely known.</p><p>For one, most of the people working in the Office weren't Aurors. Aurors themselves were mostly field agents who spent their time investigating, hunting dark wizards, and guarding places and people. The only time they visited the Office was to brief, debrief, deliver suspects or write up their mission reports. Most of the day-to-day workers were paper-pushers, taking care of the massive amounts of red tape necessary for the Office's function. The most permanent Auror presence in the Office, excluding the ones coming in and out, were the few guards stationed there and the Head Auror.</p><p>The Head Auror's office was on the edge of the Auror Office part of the floor, close to the Director of Magical Law Enforcement's own. His duties were many and varied, being second in power and responsibility only to the Director himself. Unlike a normal Auror's field-oriented workload and despite the fact that the most decorated Auror was usually the one picked for promotion, the Head Auror's duties were mostly organizational.</p><p>Aurors worked individually in most cases. There were no ranks to being an Auror, they all had equal power and responsibilities. One was an Auror, or one wasn't, though there was respect and deference given to the more senior and experienced members among them. The one in charge of this force, the one who directed them, who sent them on their assignments and gave them their orders was the Head Auror, answering directly to the Director of the Department.</p><p>When Harry Potter accepted the job of Head Auror, he thought he'd been prepared. He never planned to stay a simple Auror forever, of course. Head Auror was the next step. Many of his friends had briefly joined the corps before leaving to pursue other professional careers. Ron was expanding his and George's business, and Neville was teaching little tykes Herbology at Hogwarts.</p><p>But not Harry. Harry had a plan. Harry was going to change things.</p><p>But he hadn't been prepared for a desk job. The Head Auror rarely headed out into the field: only for very delicate or important assignments where his presence and judgement were necessary. It took him a good while to get used to all the paperwork he had to deal with, to mold his thought process from investigator and hunter to that of a strategic leader with finite resources. Still, it wasn't all bad. He liked his job, he was good at it, and the Auror Office flourished under his guidance.</p><p>None of those made him feel any better at that moment. Listening to someone drone on and on about unnecessary stuff was never his strong suit.</p><p>What was the man's name? McCain? McCorn?</p><p>"Mister McCain," Harry interrupted the man, noting that he must have gotten the name right judging by the lack of correction. "I understand your plight." He didn't. "But as I said, the matter is not in our hands. Handling of dangerous magical beasts falls under the jurisdiction of Regulation and Control. You'll have to talk to them."</p><p>"But surely-"</p><p>"Talk to madam Weasley. She will be more than happy to help you with your manticore. Her people are very capable."</p><p>"You don't understand, sir-"</p><p>"I understand that you're missing your manticore," Harry cut him off, having heard enough of this story. "And you believe he was kidnapped. Unfortunately, there is no evidence of illegal action. it is much more likely that he ran away, as manticores are not suited to domestication. I cannot in good conscience assign Aurors to finding him unless Regulation and Control deem that their presence is necessary. Are we clear?"</p><p>Perhaps it was his tone of finality. Perhaps it was his set jaw underneath the wooden smile, but the elderly man seemed to finally give up.</p><p>"Yes, mister Potter. Thank you for your time."</p><p>"Good evening, sir." He got up and walked the man to the door of his office, closing it behind him.</p><p>Now alone, Harry Potter, Head Auror, returned to his desk, all but falling into his chair. He melted into its contours with a weary sigh, pushing his hair back with his hand. He rather liked his chair. He'd custom-ordered it no more than four weeks after ascending to the station and had not regretted his choice.</p><p>He had a small break before the meeting with the small Auror squad returning from Ireland. No more than fifteen minutes, but Harry allowed his eyes to droop beneath his glasses.</p><p>"Um, Head Auror, sir?"</p><p>Harry groaned as he opened his eyes. One of the interns, in charge of secretarial duties, was poking his head through his door.</p><p>"What is it, Radley?"</p><p>"Um, something arrived for you in the mail."</p><p>Harry raised an eyebrow. "Put it in the pile with the others. I'll read it later."</p><p>"Sir, it's from Gringotts. It's marked as urgent."</p><p>Harry let out a sigh, rubbing his eyes beneath his glasses. "Fine. Send it in."</p><p>"Right away, sir."</p><p>"Could you have some tea brought in, please?"</p><p>"Of course."</p><p>The young man closed the door, leaving alone again. Three minutes later, a small tray phased through his office door, floating to his desk and setting itself on some free space. In it was a small pot of tea and a thick envelope with the Gringotts crest on it.</p><p>Harry prepared his tea and took a sip, before opening the envelope with one hand. He unfolded the letter inside, murmuring to himself. "Mister Potter, son of so and so, owner of this and that, we hope to … blah blah blah, your presence required etcetera etcetera." He took another sip as he skimmed. "… pending contract? Timed-out deadline?"</p><p>Harry frowned. To his knowledge, he had no open contracts with Gringotts or anyone associated with them. "...your presence in our bank no later than tomorrow evening to discuss the terms of fulfilment," Harry concluded, before putting the letter down.</p><p>He couldn't think of anything this could pertain to. Shrugging his shoulders, Harry put the letter on a pile of correspondence. He'd deal with it later.</p><p>He was done from work around seven. As Head Auror, it was always a possibility that he'd be called in in case something happened that needed his input or guidance, but other than he had a normal schedule that he followed every day.</p><p>He said goodbye to the staff that would stay in the office and headed down, taking the elevator to the bottom level before heading to the Atrium. It took much longer than it should have in theory because, as always, he stopped many times to greet, shake hands or exchange a few words with various people, civilian and ministry workers alike. Some friends, some strangers.</p><p>He Apparated directly to Diagon Alley, appearing in front of Weasley's Wizard Wheezes. He went inside, nodding to the cashier, who allowed him entrance to the staff only area. There he found Ron, hunched over some book and biting his pen.</p><p>"Hey mate," Harry greeted. Ron looked up, giving him a grin when he spotted him.</p><p>"Hey Harry."</p><p>"Drinking on the job?" Harry nodded towards a half-empty bottle of butterbeer as he sat on a chair.</p><p>"Just staving off the headache."</p><p>"Wish I could do that in the Auror office."</p><p>Ron snorted, turning his gaze back to his bookkeeping. "Good reason I left the department, mate."</p><p>"I thought it was because of your dream of being an accountant?"</p><p>They caught up for a bit, Ron finally giving up on what he was trying to do and passing him a butterbeer. Eventually, Harry got up.</p><p>"It's getting late," he said. "I'd better go. I need to get to Gringotts before they close."</p><p>Ron nodded absently. "Sure mate. We still on for tomorrow?"</p><p>"Of course. I'll bring the dessert."</p><p>"You know you don't have to. Hermione will nag at you about it."</p><p>"Let her. Alright, I'm off."</p><p>He left the shop, heading out into the now dark Alley. He ascended the steps of Gringotts, entered the bank and headed to a teller.</p><p>"Greetings."</p><p>"Hello," he greeted, passing over the letter from one of his pockets. "I received this today."</p><p>The goblin examined it with his monocle for a minute, nodding to himself. "Go through those doors, third door to the left."</p><p>"Thanks."</p><p>Harry accepted the letter back and followed the goblin's instructions, going through the hallway to lesser frequented parts of the bank, the offices. The door had a heading with the title 'Boltnail, Executive Contractor'.</p><p>Inside was a large office with a single goblin sitting behind a desk and a mound of books.</p><p>"Ah, mister Potter. I was expecting you."</p><p>"Good evening, Boltnail. I assume the letter was from you?"</p><p>"One of my underlings, but yes. We have business to discuss. Take a seat."</p><p>Harry sat, accepting the cup of water that appeared on the desk in front of him with a nod.</p><p>"I was unaware I was under any sort of contract. Perhaps there's been a mistake?"</p><p>"There was no mistake, mister Potter. You've been under a contract since a few weeks after your conception."</p><p>Harry blinked. "Excuse me?"</p><p>"I see that you were not aware. I have a copy of the signed contract here. Perhaps you should read it before we proceed."</p><p>The goblin presented several stacked pages of parchment to Harry. He resisted the urge to groan as he began to riffle through them. The names on the first page caused him to raise his eyebrows in surprise.</p><p>"My parents wrote this."</p><p>It wasn't a question, and the goblin said nothing, allowing Harry to continue reading in ever increasing speed. He skimmed the lingo, the superfluous words all contracts seemed to share, and many sub-sections that he simply could not understand, and zeroed in on the important bits.</p><p>"It is agreed by both parties … properties to be passed to … on the event of … upon eighteenth birthday … legally wed within no less than two years … signed James and Lily Potter, Fabio and Karina Greengrass?"</p><p>With every sentence he uttered his eyes widened a bit more, his voice rising, until he ended up staring incredulously at the goblin.</p><p>"A marriage contract?"</p><p>"Indeed."</p><p>"Is this a joke?"</p><p>The goblin glared at him. "I do not make it a habit to waste my time like this, mister Potter."</p><p>Harry stared between the papers and the goblin. His throat felt clammy and his mouth dry. He fought to bring his thoughts into order, and he succeeded.</p><p>"Who was I to marry, then? Please tell me it's not Astoria. I hear she's been getting it on with Malfoy."</p><p>"On the fourth page it is mentioned-"</p><p>Harry ignored him, going to the fourth page and reading it carefully. In a part he had previously skimmed, was mentioned the phrase 'eldest daughter'.</p><p>That gave him pause. "Daphne, huh?"</p><p>His thoughts travelled to the blond-haired Greengrass sister. She'd been in his year back in Hogwarts, though they'd never really interacted. Back then, she was friends with Davis and her troupe, though she never bothered to join any of the fights with the Gryffindors. Harry had seen her on few occasions since then, and always when his attention was focused elsewhere. Daphne, to his knowledge, was a socialite, working to spread her family's influence in the noble and rich circles.</p><p>There was one thing that Harry knew about her that made her stand out, something that she hadn't yet had in their Hogwarts years and Harry wouldn't have cared much even if she had. She was stunning, renowned far and wide for her beauty.</p><p>Regardless, this didn't make the situation any less bizarre.</p><p>"How is the contract still in effect?" Harry wondered. "It says no less than two years after my eighteenth birthday, and yet it's been several years past that. Why was I never notified before?"</p><p>For the first time, the goblin looked mildly uncomfortable. "That was an unfortunate repercussion of the dark times we were under at those years. A lot has been lost, misplaced, or misfiled. Your contract was recently rediscovered."</p><p>"So you're saying that it's your fault?"</p><p>The goblin glared at him again, but things much scarier had tried to intimidate Harry. He only smiled.</p><p>"Regardless of blame, mister Potter, Gringotts understands that you were not aware, not properly notified, and thus bear no responsibility for missing out on your deadline, the consequences of which would have been … severe. We extended your deadline anew, though the period we can allow you is not too long."</p><p>"Wait, so you mean this is still active?"</p><p>Boltnail looked affronted. "Of course. We take pride in our work, mister Potter. No contract signed in Gringotts has been broken in over eight hundred years."</p><p>"How binding is this? Is there a way to dissolve it?"</p><p>The goblin looked at him over his glasses, distaste evident in his beady eyes. "Mister Potter, this is a classic marriage contract, formatted in the style of Gorman and Underwood in the 1700s. One of the strictest models, actually. It might have fallen slightly out of favor in the last sixty years, but it's still well known and sees use to this day."</p><p>"Is there a way to break it?" Harry pressed.</p><p>Boltnail pursed his lips. "Breaking a Gorman Underwood is not … unprecedented, but it requires very specific and rare circumstances, unique to each case, that I'm not certain you and lady Greengrass fulfill."</p><p>"Could I do that?" Harry asked, running his hand through his hair, thoughts running a mile a minute.</p><p>"I am not certain. It will require quite a bit of research."</p><p>"Do it, then." After a second's thought, he shook his head. "Never mind, my lawyers will do it. Just be sure to assist them whenever they come."</p><p>"As you wish, mister Potter."</p><p>"When is the renewed deadline?"</p><p>"Four months from now. And might I be the first one to congratulate you and the future miss Potter?"</p><p>Harry felt dizzy. He rose from his chair in a sharp move. "You're not helping, Boltnail. Is there anything else?"</p><p>"Nothing immediate, now that you have been notified. My office is available to you should you require any further discussion over this or any other contract."</p><p>Harry left Gringotts in a daze, a copy of the marriage contract that his parents signed for him safely in his pocket. Rather than Apparate back to his apartment, he Apparated back into the Ministry atrium. He had some owls to send.</p><p>The Ministry was closed to the public at this hour and only manned by a skeleton crew of workers, not counting the guards. Harry greeted some on his way to his office. Once there, he wrote the letters he needed, then sent them away with a few ministry owls. Some of the recipients were outside of England, so he'd have to wait until tomorrow for a response.</p><p>Having done this, Harry did his best to take the matter out of his mind. There was nothing else he could do until he knew more, so there was no point in worrying about it. He left the Ministry and returned to his place, a nice apartment at the edge of Diagon Alley.</p><p>But still, it bugged him. His parents had signed him off to be married before he was even born? <em>What the hell, Mum and Dad? You'd better have a good explanation for this.</em></p><p>A stiff drink was necessary as Harry relaxed in his living room that night, trying to figure out what his parents had been thinking. Perhaps he could buy his dad agreeing to this, considering the fact that he was a pureblood from an old family line to whom things like this weren't foreign, but what about his mother? Why would Lily Potter agree to sign off her child's future, without any input from the child itself? It made no sense.</p><p>Harry's gaze was drawn to a wooden counter, idly placed next to the wall. Inside it, he knew, underneath the most complicated charms array he could produce using the Elder Wand, lay a switch. Unassuming on its own, but that switch was the key to opening a small vault, otherwise all but impenetrable, in a hidden location near the coast.</p><p>Inside that vault, Harry had placed the Resurrection Stone after retrieving it from the Forbidden Forest.</p><p>He was sorely tempted. Nursing his drink, frowning at nothing, Harry was tempted to break his vow never to use the Stone again. It would be so simple. He could call them and ask them, then he could simply put the Stone back. No one would know.</p><p><em>He</em> would. <em>He</em> would know. And what was to stop him from summoning them again when something else came up? Doing it once would make doing it again easier. Dramatic as the situation might be, he wasn't even dying this time.</p><p>Harry snorted. He was pretty certain that if he were dying, he wouldn't be considering using the Stone again. Death, he could handle.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>One of the perks of being Head Auror was the ability to set up your own timetable. As long as Harry got his work done and didn't inconvenience the department's operation, he could come and go whenever he pleased. Of course, it was much more efficient to just have a set schedule during which he worked, but for days like these, it was useful.</p><p>"Thank you all for your swift response to my letters." He paused, looking around his office, looking at each and every person there for a few seconds. Six people surrounded his desk, three men and three women, smartly dressed, who gave him a single nod.</p><p>"Each and every one of you is one of the best available lawyers in Europe right now," Harry stressed, waiting to see their reactions. The youngest, just a little older than Harry himself, allowed a small smile on his face.</p><p>"Some of you are here because of my fame," Harry said, receiving no reaction. "Some of you because of the money you know I can pay. Some just want the chance to work for me." Still, none of the lawyers seemed to react to his words. Harry gave them a quick smile. "That's fine. We all know how this works. Do this for me, complete this task to my satisfaction, and all those things will be yours. However, I expect you to put aside whatever professional differences you may have and work together, otherwise I will be very, very disappointed, and that's bad business for everyone involved. Are we clear?"</p><p>He looked at each of them in turn, waiting for their word of acknowledgement.</p><p>When he was satisfied with their response, Harry pulled the contract from a drawer on his desk. He dropped the numerous pages on its surface, seemingly without care. The parchment fell with an ominous thud. Harry's wand appeared in his hand and the contract glowed for a brief second, before multiplying. Each person in the room now had a copy of the contract. The lawyers moved to pick up their copies and began riffling through them.</p><p>"This is a contract with my name on it. Most of the stuff written on it is beyond my capacity to understand, but it's very important that I know exactly how it works. I want you to study it. Carefully. Learn it, own it. Every detail, every clause, every specification. I want to know if it can be broken. I want to know why the people responsible signed it. I want to know my options. I want to know the exact terms agreed on. Any possible loopholes, any expectations, any restraints. Anything that could be even remotely relevant, I want it catalogued and presented to me in three days' time. You will each be compiling a separate report on your findings, as well as a group report. Any questions?"</p><p>A woman spoke up. "We'll have to do research to try and guess at the motives of the people involved. That means we'll have to talk to people that know them, go through their history etcetera. Is that okay?"</p><p>"That's fine, as long as you don't become too overbearing. I expect people of your reputation to be able to handle such matters delicately."</p><p>A man frowned, looking up from the contract, and spoke with a faint French accent: "What about the Greengrass family?"</p><p>Harry considered for a few seconds. "Do your research, but be discreet. I'd rather they don't know what I'm doing if we can help it. Anything else?"</p><p>The man shook his head. "Not at the moment, mister Potter."</p><p>"Anything?" Harry asked again, looking, around, receiving only shakes of the head. "I'll be expecting you all in three days."</p><p>Dismissed, the lawyers gave their farewells and vacated his office. Now alone, Harry took a few minutes to collect his thoughts. Then, he retrieved a small piece of parchment, tapping it once with his wand of holly.</p><p>"Gibbons, can you come to my office please?"</p><p>The parchment floated up from the desk and folded itself into a paper airplane before taking off. It phased through the door and out of his sight.</p><p>Randall Gibbons was a retired Auror, now on a desk job. In the unspoken hierarchy of experience, age, and deeds, Gibbons was close to the top among the Aurors. He was well-respected and with many responsibilities. His mechanical foot might not allow him to go out into the field anymore, but he was still very useful in the Auror Office, being one of the people in charge of organizing the archives and handling of sensitive information.</p><p>Gibbons came in a few minutes later, his gait followed the characteristic clang of his foot. His face was lightly scarred, his hair mostly gray. "What's the matter, boss?"</p><p>Despite their age difference, Gibbons respected him. Harry, in turn, trusted in both his competence as well as his discretion.</p><p>"I want everything we have on the Greengrass family."</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>It was unfortunate that Harry had to cancel his planned visit on Ron and Hermione, but he couldn't let this wait. It would just bug him all evening and he would've been terrible company. He sent an apologetic letter, citing sudden work, and got to business.</p><p>Business, as it were, meant spending hours upon hours riffling over everything the DMLE had on the Greengrass family. As Head Auror of a few years now, he had a passing familiarity with every notable family in Britain, but 'passing familiarity' wasn't good enough anymore. Gibbons had proven his worth once again and gotten him everything Harry asked for, but Harry couldn't very well let him or some random worker go through it. They wouldn't know what to look for. He wasn't even sure what he was looking for, and he didn't want to get more people involved than absolutely necessary.</p><p>He pored through everything the department had on Daphne's family. He started with the easiest, those being properties, liquid assets, Gringotts vault, and business transactions. If he perceived the contract correctly, the Greengrass fortune would be very relevant to him very soon.</p><p>The Greengrass family was, in a few words, smart. They'd managed to stay out of most major conflicts of the last centuries and profit off of them, somehow managing to avoid the wrath of either of the sides involved. They didn't own a lot of businesses, but those they did own were profitable, mostly centered around trading, organizing and arranging magical imports and exports throughout Europe. They owned a sizable estate in Wales, and a few spare properties all around. Compared to some of the other pureblood families like the Blacks, the Malfoys or the Lestranges they weren't considered particularly wealthy, but no one denied that they were well-off.</p><p>Politically, the family had expanded their sphere of influence in the last century, Fabio Greengrass and his father Agnus before him, had attached themselves to Britain's trade industry and slowly but steadily integrated themselves into the system, making the Ministry semi-reliant on their favorable prices. This had elevated their family's social standing, in conjuction with their not unimpressive wealth and near-exclusive breeding, for which the family was rather famous. Few families could claim heritage as long or undiluted as the Greengrass family, who boasted about the lack of muggles or muggleborns in their family trees. The Department had some suspicions regarding a few cases but as far as the general public was concerned, the family was as pure as they came.</p><p>After those, Harry started reading reports made on each Greengrass family member specifically. As a prominent pureblood family, they too had been under close scrutiny after the end of the war, though they had managed to avoid trouble with the newly established Ministry. It was decided that the family had once again managed to avoid direct involvement in the conflict, however known their pureblood pride was. It had been rather baffling to the investigator in charge of them, Harry noted, that Fabio had elected not to openly side with Voldemort, even when the Dark Lord had seemingly conquered the country. It was no secret that the man was a pureblood supremacist, yet he apparently refused to become a radical.</p><p><em>Power to him,</em> Harry thought. That didn't take him off the watchlist of the Ministry. His file was … interesting. The man was smart enough to avoid illegal activities, probably aware of Ministry surveillance, but still. Harry went through all their files, Fabio's, Karina's, even Astoria's (whose file made him slightly green, he did not want to know the details of Malfoy's courtship), though he focused most on Daphne's. It detailed some of her life after her Hogwarts days, leading up to today. There were some interesting things there, potentially useful, even. It was certainly more than Harry had known before about his prospective wife-to-be.</p><p>By the time he left his office, it was late enough to be considered early.</p><p>The next day, he went to work early. A pepper-up potion was enough to stave off the effects of his late-night research, and he was able to get most of his responsibilities out of the way relatively quickly. Thankfully, it wasn't a busy day for the Auror Office, and that allowed Harry to wrap up relatively early.</p><p>He had plans for tonight.</p><p>Around six, he sent a paper airplane from his office. It read 'Will you accompany me to the Foreign Affairs party tonight? HP'</p><p>He received a reply not much later. 'Sure,' it read. 'Pick me up at 9. SB'.</p><p>With that, Harry organized his desk, before leaving the Ministry. He had to get dressed for the occasion.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>"Harry, what are we doing here?"</p><p>"Hm?" Harry turned to his companion, giving her a dazzling smile as they continued their gentle swaying to the music. "Enjoying a nice Ministry event?"</p><p>Around the two of them, the party continued in full-swing. Ministry employees, mostly from the International Cooperation department, were in attendance, along with an abundance of diplomats, politicians and socialites. Dancing and refreshments filled the Ministry's event hall, tastefully decorated for the event.</p><p>Curiously, the event hall was a facility by itself, outside of the Ministry building.</p><p>The redhead pouted, giving him a huff. "Not that I'm not enjoying myself, Harry, but I would like to know what brought this on."</p><p>"Can't I just be having a nice evening out with you, Susan? You look amazing, by the way. You make the dress look great."</p><p>Susan blushed just a bit at the compliment and gave him a smile, almost hiding behind her long, curly hair.</p><p>"Thank you, though I believe you already said something to that effect," she replied. "But I do have to wonder what made you overcome your aversion to these little Ministry get-togethers."</p><p>An ironic understatement on her part, Harry knew. The who's who of wizarding Britain gathered and made business in these events. Harry would attend when necessary, but not if he could help it. While the people in these gatherings would not outright mob him, it was still not a very good experience when almost everyone wanted to talk to him.</p><p>There was no use lying to Susan. "I'm keeping an eye on someone."</p><p>She frowned as the two of them absently followed the steps of the dance. "Someone in danger? Or someone dangerous?"</p><p>"Neither. Just a … curiosity."</p><p>Susan followed his gaze to the blonde twirling expertly on the other side of the dance floor. She raised an eyebrow at him.</p><p>"Daphne? Finally done in by her charms, then?"</p><p>Harry chuckled with a shake of his head. "Not yet. Business will bring us together soon, though, so I figured I'd try and find out what she's like." Technically true.</p><p>"Is that why you asked me? To have someone on your arm while you watched her?"</p><p>Harry shook his head. Susan was one of the very few people that he could call a real friend. Someone he trusted.</p><p>"I could have asked Hermione."</p><p>She grinned. "But think of the scandal!"</p><p>Harry gave a snort. "I thought people finally stopped seeing things between us when she married Ron and had his kid."</p><p>"Harry, Harry, Harry. How little you know of the world. That only made the gossip <em>juicier</em>."</p><p>Positive that Susan was suitably assured, he jerked his head in Daphne's direction. "You two operate in the same circles. What can you tell me about her?"</p><p>"That you wouldn't find on her file, which I assume you've gone over? A few things, but it won't be for free."</p><p>He raised an eyebrow. "What would you like in return?"</p><p>"Say, sixty percent of your attention for the rest of the evening."</p><p>Harry laughed. "If I manage to satisfy my curiosity, you will have no less than my undivided attention, Susan."</p><p>"Well then, I'll take that deal. Let's go get a drink, and I'll tell you what I know."</p><p>Over the next half hour, Susan told him a few things about the eldest Greengrass. As she did, Harry watched the subject of their discussion dance, and talk, and laugh in that reserved, elegant way only aristocratic women could manage. Even from across the room, Daphne looked great in her midnight dress, low heels, and delicate jewelry. Her blond hair was up in an elaborate braid that must have required magic to make and maintain. The rumors were not unfounded.</p><p>As promised, Susan told him what she knew. Daphne was employed in her father's business, but her main occupation was that of a socialite, maintaining connections and relations with influential people on his behest. She belonged to the aristocratic crowd, Susan said. If ever there was a stereotypical pureblood heiress, that was her. Susan said that with a snort, but she elaborated, explaining that Daphne was only ever seen in the presence of the rich, the influential or both. Apparently she took great care in her reputation, and was prideful to a fault if not outright arrogant, though she could be incredibly charming when she wished.</p><p>Harry planned to test the validity of this description soon enough.</p><p>Apparently, there was some sort of competition among the younger aristocrats over who would accompany the lady Greengrass in each event, and her decision was taken as a sign of favor. Harry snorted at the thought. However beautiful she was, that seemed a bit extreme.</p><p>He did watch her for a bit as she navigated the groups of politicians and diplomats with ease and grace. Harry would have perhaps liked to watch her a bit longer, to see if she'd slip up at any point, but he knew that it was rude to watch another woman when he was with company. He devoted the rest of the evening and the night that followed to Susan, as he had promised.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>"So," Harry started, looking at the lawyers once again gathered around his desk. "Tell me why my parents decided to sell my future."</p><p>The eldest among them, a woman from Germany, looked between her colleagues. "If I may?" The rest of them nodded, giving her permission to speak for all of them. "Let's take them one at a time, mister Potter, yes? You have our joined report?"</p><p>He nodded. "I will study it and the personal ones meticulously, but I'd like to hear from you directly first."</p><p>"What would you like to ask first?"</p><p>"Why a marriage contract? Why would my parents, or Daphne's, do that?"</p><p>"Well." The woman paused, pushing up her glasses, before continuing. "Bear in mind that with just two days, the validity of our checks could be questionable."</p><p>Harry waved the warning away, bidding her to continue.</p><p>"The Gorman Underwood style is old, following customs dating back centuries. It essentially inducts you into the family through marriage to the eldest child, making you direct heir to the family and all that it entails. It transfers all the rights of the bride, in this case, miss Greengrass, over to you."</p><p>Harry blinked. "Huh. Imagine that. All the rights, you say?"</p><p>She nodded. "It is essentially a transfer of ownership from the father to the groom. Old families like the Greengrass adhere to such customs. Few families use such contracts anymore, because they make that sort of mindset, that of personal ownership, into actual law, legal and magical."</p><p>"You're saying I <em>own</em> Daphne?"</p><p>She shook her head. "You will once your marriage is performed, not before. Though the contract's signing by definition binds her to you until that moment."</p><p>"Why would she marry me if that is the case?"</p><p>"Well, she doesn't have a choice. It's not up to her to decide."</p><p>"That's monstrous!"</p><p>The lawyer coughed in her hand. "Be that as it may, mister Potter, the contract is active."</p><p>Harry groaned for a second before taking a deep breath. "Fine, fine, I'll focus. So, if the contract essentially passes Daphne and the right of heir to me, why would Fabio create it in the first place?"</p><p>"From what we were able to gather, your grandfather, Charlus Potter, saved Fabio Greengrass' life when he was very young. We couldn't find too many details, but the important thing is that the two were close until your grandfather's passing. At the time, the Potter family owned several mining companies. The contract essentially exchanges the eldest daughter and right of succession for an advantageous partnership with the Potter businesses."</p><p>Harry frowned. "The only thing left from the Potter fortune is our vault in Gringotts. Voldemort destroyed the business, the mines, and the manor."</p><p>"Unfortunate as that may be, and it is, it doesn't affect the contract."</p><p>"But the business Fabio signed for no longer exists."</p><p>"The contract is magically binding, mister Potter. So long as you don't break your end of the bargain, it doesn't affect you. It is impossible to accomplish as things are today, but the contract is adamant that everyone holds up their end to the best of their abilities."</p><p>"So Fabio is giving Daphne and his family's future and getting nothing in return?"</p><p>"This kind of rigidity is the reason why contracts of this format are seldom used, in this day and age, but you are essentially correct."</p><p>Harry let out a low whistle. "Hell, I wouldn't want to be in his position."</p><p>He leaned back in his chair, running his hand through his hair as he processed what he heard.</p><p>"I still don't get why my parents would agree to this, even if it was grandfather's idea."</p><p>The German woman shifted through a few papers in her hands. "From, what we managed to gather, your mother was good friends with Karina Greengrass, née Davis."</p><p>She offered something to Harry. Taking it, Harry saw that it was a magical photograph. Frayed and a little torn, but still working. His mother, probably around her fourth or fifth year, waved at him, her hand casually around the waist of a blonde haired woman who looked suspiciously like Daphne. They were both smiling and, indeed, looked very friendly and comfortable with each other.</p><p>"So they decided to just marry off their children?" Harry asked, incredulous. "What were they, thirteen?"</p><p>"It at least explains why they were not opposed to the idea."</p><p>Harry's frown deepened. "I still don't buy it. Mum wouldn't have just given away my ability to choose my own wife. She wasn't a pureblood, she wasn't raised steeped in tradition."</p><p>The woman smiled. "Your intuition, as it happens, is correct, mister Potter. We managed to locate the goblin who oversaw the signing of the original contract, and he had a rather fascinating tale to tell. As you know, a Gorman Underwood normally cannot be broken or cancelled."</p><p>"I'm sensing a 'but' somewhere here."</p><p>"<em>But</em>, your mother insisted that a loophole be added. It is, from what we could gather, the biggest deviation from a standard Gorman Underwood. Your mother tweaked the terms of the contract so that, through the completion of a few forms, the invocation of several bylaws and clauses that you will see detailed in our report, you could essentially void it."</p><p>Harry breathed a sigh, feeling much more relief than he had expected. It wasn't just because he now had an out, should he need it, but it was mostly because he now knew he hadn't been wrong about his parents, that they wouldn't do something this permanent without thought of his own opinion of it.</p><p>"Can Daphne use the same loophole?"</p><p>"No, mister Potter. It was agreed upon that only you could void the contract, before the wedding itself. As I understand it, your mother's request was considered quite strange."</p><p>"Can Daphne counter the contract in any other way?"</p><p>"Mister Potter, as far as the contract is concerned, miss Greengrass has no more rights than a decorative clay pot."</p><p>Harry blinked. That was a bit more frank than he'd expected from the elder woman. "Okay. So, my mother thought that it would be just the <em>cutest</em> if her kid and her friend's kid got to marry, what about my dad? I doubt he had the same thought."</p><p>The elder lawyer coughed into her hand, some embarrassment evident in her posture. "Um, not quite," she said as she shifted her papers, pulling one particular out of the pile. "Your late father agreed to the contract your grandfather proposed, but he had a few of his own ideas and restrictions."</p><p>"Restrictions?"</p><p>She nodded. "The late mister Potter wrote some subsections of the contract, detailed a few terms without the completion of which the contract would be violated on the part of the Greengrass family."</p><p>"What terms?"</p><p>"Well, he … he set a few … requirements, of the bride. A set of bodily measurements to be met, if you will."</p><p>"Excuse me?"</p><p>"I think it is best if you read it yourself," the lawyer said, clearly not wanting to elaborate further. Harry accepted the parchment and glanced over it. As he read on, his eyes grew wider and wider.</p><p>Bloody hell, but his father had high standards. <em>Very</em> high standards. He couldn't imagine that that particular conversation, the one where he objectified the unborn future wife to-be of his unborn son, must have gone over well with his mother, but it did make it onto the final draft of the contract.</p><p>Then, another thought occurred to him.</p><p>"And Daphne fulfills these requirements?"</p><p>"Perfectly. Exceeds them, even, if her family doctor and lawyers are to be believed."</p><p>Harry put the parchment down and fell back into his chair, pursing his lips.</p><p>This … he had to think about this.</p><p>"Leave your personal written reports here before you go, please. We'll be in contact regarding your payments and any potential questions or representation I may require."</p><p>"As you wish, mister Potter."</p><p>"Oh, and something else."</p><p>"Yes?"</p><p>"You know, about this loophole?"</p><p>"What about it?"</p><p>"If someone comes to one of you, asking about ways to break the contract, someone like my friend Hermione Weasley, let's just … pretend that there aren't any, okay?"</p><p>She blinked in confusion. "You want us to lie?"</p><p>"Yes. I believe that's a sizable part of what you do. Lie, or avoid answering."</p><p>The woman looked mildly offended, but she nevertheless nodded. "As you wish."</p><p>"Thank you for your assistance."</p><p>Finally alone, Harry spent the next few minutes silent and unmoving. Eventually, his gaze was drawn back to the piece of parchment sitting innocently on his desk.</p><p>"... bloody hell."</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>"Everything alright, mate?"</p><p>"Hmm?"</p><p>"I'm just asking. You've been … distracted the whole week. Is something bothering you?"</p><p>"Everything's fine, Ron."</p><p>"Harry you've been acting weird the last few days."</p><p>"That's hurtful Hermione- don't give me that look."</p><p>"What's with your sudden burst of public appearances, then?"</p><p>"I just figured I should spend more time with the Ministry's top brass and visiting dignitaries."</p><p>Hermione snorted. "Tell us what's going on?"</p><p>"Nothing is going on. It's all part of my plan."</p><p>"God, please don't start talking about your plan again."</p><p>Harry crossed his arms and looked away, annoyed. "It's a good plan," he muttered.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>It took Daphne two weeks to come to him.</p><p>"Your four is here, mister Potter."</p><p>Harry looked up from his work, affixing his glasses before nodding. He'd been expecting this. "Send her in."</p><p>Daphne struck an intimidating figure, in the way only attractive women can, even when she was not dressed for a cocktail party. Her jacket alone, if Harry knew his brands right, cost more than most Ministry workers made in six months. Her hair was done in a low ponytail, left to fall down her back outside of the jacket.</p><p>"I greet you, Head Auror."</p><p>Harry resisted the urge to raise an eyebrow, deciding to play along. "Greetings, miss Greengrass. Please come in, take a seat," he said, motioning to one of the chairs in front of his desk. Daphne approached, giving the chairs a weary look, and seemed to physically force herself to sit. Harry almost took offense. They were quite nice chairs.</p><p>"Would you care for a refreshment?" he asked, idly twirling his wand on his right hand. Daphne seemed to consider it for a second, her focused expression accentuating her high cheekbones.</p><p>"The hour is a little early, but something strong would not be amiss, in this occasion."</p><p>"What would you like?"</p><p>"Some Ogden's, perchance?"</p><p>"Right away."</p><p>Harry waved his wand once and a cabinet behind him opened. Inside were many, many tiny bottles. One rose by itself, along with a pair of tiny glasses. The bottle and the glasses grew back to their original size and carefully filled themselves. Harry snatched the glasses out of the air and offered one to Daphne as the bottle shrank and returned to the cabinet.</p><p>"Thank you," Daphne said as she accepted the glass and took a sip. A bit early in the day for firewhiskey, true, but Harry didn't disagree that the situation called for it.</p><p>"How can the Auror Office help you today, miss Greengrass?"</p><p>"I am not here seeking the assistance of the Aurors." Her tone reminded Harry of Narcissa Malfoy, in some ways. Tightly controlled, deliberately caustic, projecting superiority with every uttered syllable. Did they teach that to pureblood children?</p><p>"You made an appointment with the Head Auror for a social call, then?"</p><p>"In a manner of speaking, yes."</p><p>Harry smiled. "Just as well. I'm glad you came to see me. Can I just say that you look great today?"</p><p>Her mouth quirked in a small smile. "I appreciate the compliment and the sentiment. It is also good to see you. It has been long since last we spoke."</p><p>Harry raised an eyebrow, suppressing a grin. "You know Daphne, I'm taking a trip down memory lane right now, and try as I might, I can't recall us two ever exchanging a single word."</p><p>Daphne seemed to consider this, taking another sip of her drink to stall for a few extra seconds. "Indeed. An unfortunate byproduct of the Hogwarts separation system."</p><p>"You'd think two yearmates would have said something to each other after seven years. You were friends with Davis as I recall, correct? She seemed to have no trouble exchanging words with me."</p><p>Daphne waved a hand dismissively. "I don't share Tracey's inclination for trouble, nor her fascination with Malfoy. I saw no reason to antagonise you or your friends."</p><p>Harry raised his glass slightly. "If only the rest of us shared your maturity at the time, it would've saved us loads of trouble."</p><p>"It was certainly fun to watch, however."</p><p>Harry snorted. "I'll bet it was. Although, I'll admit to some surprise. Your sister is set to marry Draco Malfoy, is she not?"</p><p>Daphne grimaced just so, taking another swig of her glass. "I need no reminder of that fact. Much as I would wish it different, Father is insistent, and so it shall be."</p><p>It was not Harry's place to question the concept of family obedience. He respected the fact that many families operated that way, and he had no right to judge them for it. He chose another angle of approach.</p><p>"I can understand it from a business standpoint," he said. "Malfoy's overseas connections would be a great asset to someone looking to expand by, say, assimilating Harvey and Corney Magical Transportation?"</p><p>Daphne tensed, her brow creasing in a furrow. Her eyes pierced his. From her look, Harry half-expected a Legilimency attempt, but his vigilance proved excessive.</p><p>"How are you … aware of this?"</p><p>"I have my sources," he said. This was a calculated move on his part. Hopefully, now that Fabio knew that the Auror Office was aware of the move he was preparing in secret, he would make sure to keep everything legal and clean.</p><p>"I … see." Daphne said, tapping her fingers against the glass. "It gladdens me to see our Head Auror take his profession as seriously as you do. Why, one would think that your talents are almost … wasted. Someone at your position would, perhaps, believe that the role of Director would be more suited to him?"</p><p>Harry raised an eyebrow. She phrased it as a question, but it wasn't.</p><p>"Perhaps one such as you would have even began making his move on the seat. Director Baker would be unaware of the encroaching threat to his position."</p><p>This gave Harry, in turn, pause. He drank from his glass. His expression must have given something away, because Daphne gave a satisfied smile, getting more comfortable in her chair.</p><p>"I'm not going to ask you how you are aware of this."</p><p>She chuckled. "I hadn't expected you to. But you should. I wouldn't be afraid to tell you how transparent the fact that you're putting your pawns in strategic positions is."</p><p>Harry frowned. "I like to call them my friends, you know."</p><p>She waved a dismissive hand. "Do not get semantical over terminology. You are correct, regardless. You would do a much better job as Director than Baker."</p><p>Harry wasn't sure if she was sincere or trying to butter him up, but he appreciated the compliment nonetheless.</p><p>"Thank you." He cleared his throat. "I appreciate the chance to chat, but this is a fixed appointment, and our time is limited. I'm only speculating, but if there was something particular you wanted to talk about, now would be the time to bring it up, since our time will end soon."</p><p>Daphne clicked her tongue in annoyance. "You know why I am here."</p><p>Harry allowed himself a smile. "Do I?"</p><p>"Magic save me-, yes, Potter, you do."</p><p>His smile didn't fade. If anything, it grew ever so slightly wider. "I'm afraid I don't know what you're talking about."</p><p>When next she spoke, it sounded as if the words were physically painful. "I am talking about the contract. You know about it, correct?"</p><p>"Oh, that. Well, why didn't you simply say so? Yes, I was notified a few weeks ago."</p><p>"And yet, you have done nothing?"</p><p>"What exactly did you expect me to do?"</p><p>Her face darkened, her lips pulling back in the beginning of a snarl, but she held herself back, forcibly calming her expression. "Void the contract."</p><p>"I'm told I can't void a Gorman Underwood style contract. Supposedly, it's one of the strictest formats available. You know, I didn't even know marriage contracts were still in use?"</p><p>Daphne grimaced. Harry guessed she was suppressing the urge to sneer. "That is because you do not navigate the right circles. Those befitting your line or your station. You lower yourself to those beneath you, and I do not understand why."</p><p>Harry raised an eyebrow. "Look where the 'right circles' got you. The contract isn't very favorable to you, is it? What do you think of tradition after this? From what I understand, Gorman Underwood are very old and were used by very prominent families, rich and noble, throughout Europe."</p><p>She looked rather irritated. Harry didn't understand why: he was feeling quite amused himself. "It is an unfortunate situation, I will not deny that. Even so, it can be diffused. You have but to void the contract."</p><p>"I thought I couldn't?"</p><p>"Do not play the fool with me, Potter!" she all but yelled, her grasp on her temper failing momentarily. She took a deep breath, and Harry said nothing as she reined in her anger. "I know the kind of resources you have access to. You know very well what Lily Potter did for you."</p><p>Harry smiled. "It does feel very nice, knowing that my parents loved me and made everything as advantageous as possible for me."</p><p>Her expression clouded again, her fingers clutching the glass in a grip much harder than necessary.</p><p>"When will you void the contract?"</p><p>Harry widened his eyes, acting surprised. "Void it? Why would I do that?"</p><p>"Is this what passes for a joke to you? Do you have any idea what this contract needs? I … we are to be <em>wed</em>, Potter."</p><p>"I read the contract, thanks. I also read the terms. They seem rather favorable to me. I don't see why I should reject it."</p><p>She pursed her lips, probably holding herself back from doing or saying something she'd regret. When she finally spoke, she did so in a softer tone.</p><p>"I … I admit that I did not expect you to not be terrified at the prospect of marriage to a complete stranger."</p><p>"I'm sure we'll work it out. Our parents were such good friends, after all."</p><p>"Look, Potter. There's no need for this to get out of hand. I came to you because you can end this voluntarily, and no one has to be unhappy from a legal challenge."</p><p>"No, you came to me because the only way the contract doesn't go through is if I decide so. And you waited until now because you expected me to void it by myself without your interference. Am I wrong?"</p><p>Even if Harry wasn't Head Auror, which included being a well-trained and experienced interrogator, he would have known Daphne's shocked expression for what it was. Confirmation.</p><p>"I … I didn't…"</p><p>"And now you came to me, expecting me to just do as you said? You thought you knew me, had me figured out? You thought the concept of arranged marriage would be so horrifying to me, didn't you?"</p><p>To her credit, she wasn't speechless for more than a few seconds. "Listen, Potter. Perhaps you are right, and I assumed too much of you." Harry tipped his head in acknowledgment. "But even so, I do not think I was wrong about your character. You are a man of morals. A man of vision. Your work in the Ministry is proof of this. You can understand when some customs are meant to be used, and when they are not. I do not believe that you would bind me to you without my consent, not like this. I have discussed this with Father, and he is more than willing to conduct business with you, in terms perhaps comparable to those on the contract. There is no need to complicate this mistake on our parents' part."</p><p>She left her glass on his desk, pushed her chair back and got up.</p><p>"I believe I have taken up enough of your time, Head Auror." She reached inside her jacket, pulling out a few papers. "I am told that these are all the necessary forms to get the contract voided." She gently laid them on the desk. "I trust that you will make the right decision. When you do, contact us to discuss how best to bring the Potter name back into competitive enterprising. I believe we can make something majestic out of this mistake that our parents made, all those years ago."</p><p>Harry had to give it to her. She'd put quite some thought into this. "Well spoken, lady Greengrass. Should I accompany you to the Floo?"</p><p>"No, I believe I can find my way. Good day, Potter."</p><p>She was careful not to close the door any harder than was polite, but Harry could still hear her as she stormed out of the Auror Office, probably scaring a few workers along the way.</p><p>Harry took a sip of his Ogden's Finest before setting the glass down and leaning back on his chair, hands behind his head as he considered the exchange. A smile found its way to his lips.</p><p>"Nice to make your acquaintance, miss Greengrass."</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>Harry knew he should have expected this. He really should have. Still, Hermione's horrified expression as he explained the situation made him consider the possibility that telling her was a mistake.</p><p>"Please tell me that this is a sick joke." She didn't actually let him reply. "Arranged marriages! What is this, the eighteen hundreds?"</p><p>"Hermione, perhaps you should-"</p><p>"This is completely barbaric!"</p><p>Ron's hand on hers stopped Hermione's tirade before it truly got started. She turned to look at her husband and was met with a stern look, before which she forced herself to take a deep breath.</p><p>"Relax, Hermione," Ron said, voice steady. "You'll upset the baby."</p><p>Hermione's hands rushed over to her belly, just starting to show signs of swelling.</p><p>"I know, Ron. I'm sorry. Sorry, Harry. It's just … this is exactly the sort of thing that I-"</p><p>"I understand, Hermione. Still, it's not as terrible as it sounds. My folks actually cut a pretty good deal for me."</p><p>"But that's just it, Harry. Marriage isn't a transaction. It's supposed to be a show of love, trust and commitment."</p><p>Ron tugged gently into her hand, drawing her gaze to his."Hermione, you don't have a lot of context for this."</p><p>"What do you mean Ron?"</p><p>"Arranged marriages were the norm until pretty recently. I'm sure you'll look it up later, you'll know I'm right. Contracts like the one Harry's folks signed were created specifically as a solution to family feuds and rivalries. It's the only reason the pureblood families don't slaughter each other openly, Ministry or no Ministry. Well, ignoring the recent Voldemort situation. It's much harder to declare war on another family when your sister is married to them. It's equally bad for you to cheat that family in some way when her fortune is tied to them."</p><p>Hermione let out a frustrated sound. "I can understand that. But times have changed, haven't they? Marriage contracts aren't really used much anymore, are they?"</p><p>Ron nodded. "Not really. Some families use them, but they just sorta … went out of fashion, I guess."</p><p>"I prefer to think of it as society shedding barbaric and oppressive practises the moment they were no longer absolutely necessary."</p><p>Ron shrugged. "Maybe. Doesn't really help us now, though."</p><p>Hermione turned to Harry. "Are you absolutely sure you can't cancel this contract?"</p><p>Harry gave a noncommittal shrug. "My lawyers couldn't find a way, and they're the best money and reputation can hire."</p><p>"This is … this is insane, Harry. Why would your parents do this to you? I never would've thought … I mean … Harry, they <em>died</em> for you."</p><p>Harry nodded. "It sounds weird at first, but I'm pretty sure that they did it <em>for</em> me. Mum and Dad made sure I would get as much out of this as possible."</p><p>"What about your freedom of choice, Harry? What if you don't love Daphne? What if you loved someone else? Why does this not bother you?"</p><p>"I don't really know. I talked to Daphne, and I think we can at least get along. Perhaps we can work it out. It's not like I have a choice, you know, so I might as well try to make the best of it."</p><p>Hermione threw an incredulous look at him. "So you're just going to give up like this?" She turned to Ron. "Are these contracts really that absolute?"</p><p>"Some are," Ron said. "I remember Mum talking about something like that. Some are stricter than other, but generally they're not unbreakable, no. Harry's must be a rare version. I don't really know them, though."</p><p>"You're both so calm, am I the only one seeing how terrible this is?"</p><p>"I think it's the hormones, honey."</p><p>Hermione's glare could have melted solid stone, but Ron withstood it with but a smile. Hermione gave up with a frustrated groan as she got up from the couch.</p><p>"I'll go check on dinner. I need time away from you two."</p><p>"Could you bring some tea as well, love?"</p><p>"Fine." She turned to Harry. "I promise I'll find a way out of it for you. I'm so sorry this happened, Harry."</p><p>"Don't push yourself," Harry cautioned. "Focus on your family for now, okay?"</p><p>Hermione shook her head and didn't reply, instead choosing to leave the living room, leaving the two men by themselves.</p><p>Harry turned to Ron, who was giving him a speculative look. Harry felt oddly uncomfortable.</p><p>"What?"</p><p>"You're very lucky Hermione is pregnant as well as very, very upset, or she'd be able to tell, too."</p><p>"Tell what, Ron?"</p><p>"You're lying, aren't you?"</p><p>Harry's eyes widened. "About what?"</p><p>"About the contract. Something about it."</p><p>"Don't be ridiculous Ron. Why would I lie?"</p><p>Ron narrowed his eyes at him. "You can stop it, can't you?"</p><p>Harry regarded his best friend for a minute, before letting out a breath he was holding. "Yeah," he admitted.</p><p>"What's going on, Harry?"</p><p>"As I said, it's a good deal."</p><p>"Come on mate, tell me the truth."</p><p>"I just … want to see where this goes. Perhaps it might turn out for the better."</p><p>"But still, marriage?"</p><p>He shrugged. "Never said it was a good idea. Might not even come to that."</p><p>Ron was silent for a bit, mulling it over. After a quiet minute, he spoke again. "Are you sure about this, Harry?"</p><p>"Eh. Not ... really?"</p><p>"You're not sure about this life-changing decision you're about to make?"</p><p>"Everything sounds bad when spoken of in that tone."</p><p>Ron ignored him, letting out a breath of relief. "Oh, good. You had me worried there for a second, mate."</p><p>Harry gave him a confused look. "What the hell, Ron?"</p><p>"You gotta admit mate, things tend to go tits up when you're sure about something you're about to do."</p><p>That was a … rather accurate summarization of several years' worth of dangerous situations, actually.</p><p>"That's it? That's all you have to say?"</p><p>Ron shrugged again, getting more comfortable on the couch. It'd been a few years since Ron was an active Auror, and it sort of showed on his slowly but steadily expanding belly.</p><p>"It's your life, mate. If you want to do something crazy and stupid, well, who am I to tell you otherwise?"</p><p>"I had … well, I'd expected more resistance from you, actually."</p><p>"Why?"</p><p>"Because it's Daphne. She was a Slytherin in our year, remember?"</p><p>Ron made a face. "I mean, yeah, sure, slimy Slytherins and all that. But I've seen the bird, mate. If you've a chance to bag her and make it for life, I'm not gonna try to talk you out of it. Go for it and good luck, I say."</p><p>Harry stood there, gobsmacked, staring at Ron. "You're the best friend a man could ask for mate, you know that?"</p><p>"And on that cheery note, I'll go check on the wife. Piece of advice? Never have children with your wife."</p><p>"I think you've met your quota of good advice for today, Ron."</p><p>Ron shrugged on his way to the kitchen. "Can't all be winners."</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p><hr noshade="" size="1"/><p>It took another two weeks for Daphne to come to him again.</p><p>Harry was filling some forms on his desk, minding his own business, when he heard the commotion from outside. He raised his head to look at the door. He could hear several raised voices as well as stomping steps approaching his office.</p><p>"You can't go in there without an appo-"</p><p>"Out of my way, worm!" A loud smack followed the angry exclamation, which in turn gave way to a pained yell as the door to his office opened and a livid Daphne Greengrass stormed inside. Behind her, Radley and another secretary awkwardly stood next to the door. Radley sported a rather painful-looking hand-print on his right cheek. Harry could see a pair of off-duty Aurors in the hallway beginning to draw their wands. He raised his hand and motioned them away. With a nod, they did so.</p><p>Harry turned to look at Radley, who had started speaking. "... really sorry, sir. She just barged in and, well, we didn't want to use force to-"</p><p>"Get out right this instant!" Daphne said with a glare, staring down at the two secretaries like they were particularly offensive bird droppings.</p><p>Harry gave a nod. "It's alright, Radley. You can go. I'll see what's bothering miss Greengrass here. Push up my six for ten minutes, would you?"</p><p>"You will be rather incapable of having a meeting when I'm through with you, Potter!"</p><p>"Make that thirty minutes, Radley."</p><p>"Y-, yes sir."</p><p>Now alone, Harry leveled a cheerful expression at the Greengrass heiress. "Greetings, Daphne. Have a seat. Would you like a drink?"</p><p>Daphne ignored him, stomping her way to his desk and slamming her hands on its surface as she gave him a glare.</p><p>"Why haven't you signed the cancellation yet, Potter?" she all but yelled into his face. Harry was instantly thankful for the one-way muting charms on the walls and door to his office.</p><p>If Harry hadn't gone through a rather explosive separation with the spitfire that was Ginny Weasley, the display would have been rather intimidating. As it was, he still had to suppress the instinct to pull back.</p><p>"I think it's alright for you to call me Harry by now, Daphne."</p><p>"I have had enough of your cheek."</p><p>"Well, get used to it."</p><p>"I do not <em>want</em> to get used to it," she snarled. "I want you to sign this accursed form so I can get back to my life, which does <em>not</em> include you."</p><p>"That's a bit harsh, don't you think?"</p><p>"Potter, you yourself admitted that we've barely exchanged a single word before this blasted contract. We don't know anything about each other."</p><p>"What better way than this, then?"</p><p>"Get this in your head, Potter. I will <em>not</em> marry you. Absolutely not, not in a thousand years."</p><p>"Bold words from someone's who's been signed away by their parents and unable to do anything about it. And I just so happen to have this nifty contract here that disagrees with you."</p><p>Daphne's wand appeared in her hand. "Sign the forsaken paper or magic help me I will-"</p><p>"You will, what?" Harry's wand had also made an appearance. Daphne eyed it warily, her fingers clenching around her own. "Are you seriously threatening the Head Auror in the middle of the Auror Office? Disregarding that, do you really think you could beat me in a fight?"</p><p>"You are incredibly arrogant for one so supposedly humble, Potter."</p><p>"And you are very quick to underestimate me for one so supposedly observant, Daphne."</p><p>"Why are you doing this? Whatever you think you stand to gain by forcing me to marry you, I guarantee you will not get it."</p><p>"I sense a lot of displaced anger, considering it wasn't me who sold you off."</p><p>If anything, Daphne's glare intensified. "Trust me Potter, you're not the only one I'm blaming for this. But you <em>are</em> the only one who stands in the way of the contract being voided. Let me repeat myself, this will not work out for you. If you force me to marry you, I will hate you for the rest of my life."</p><p>"We can talk about this, but first you need to stop shouting and take a seat."</p><p>She continued to glare at him, but Harry met her gaze and matched it. The standoff was broken when Daphne let out a long suffering sigh, but she did eventually throw herself in one of the seats and crossed her arms.</p><p>"Speak."</p><p>"Believe it or not, I don't want you to be trapped in a loveless marriage for the rest of your life."</p><p>"And yet you would have us wed in three months' time, as per the contract we did not know about until a month prior?"</p><p>"I think that we should look at this as an opportunity."</p><p>Daphne looked at him like he'd lost his mind. Perhaps he had.</p><p>"I … what?"</p><p>"Consider your life so far. Have you never thought that something was … missing? My experiences so far have taught me that such blindsiding events can be seen as a threat, or an opportunity."</p><p>"I refuse to take the fall for you feeling dissatisfied with your life, Potter. It is not my responsibility to make you happy."</p><p>"Just listen, would you?"</p><p>"Get on with it, then!"</p><p>"The way I see it, there are two ways we get through this situation. Both ways are mine, and you'll have to deal with that and remember that your parents are responsible for this situation in the first place."</p><p>"What ways?"</p><p>"First option, you remain stubborn, aggressive, and generally disagreeable. I refuse to sign, and we will get married in three months. This is an option neither of us wants, but I think I'll deal with it easier than you would."</p><p>"And the other way?" Daphne all but growled.</p><p>"The second way is my personal favorite. You stop thinking of me as the enemy, and give me a chance. You agree to do one thing for me, and in return I will sign the papers and cancel the contract."</p><p>Daphne's eyes narrowed. "Do … a thing?"</p><p>Harry nodded.</p><p>"Choose your next words <em>very</em> carefully, Potter, or you will find out exactly how competent I can be in a fight."</p><p>"All I want is a chance. So here's the deal. Agree to, let's say, five dates with me. After those five dates, I will sign, and you will be a free woman."</p><p>It took almost a full minute for Daphne to find her voice. Her face had lost its anger, replaced with pure bafflement.</p><p>"Have you truly taken leave of your senses, Potter?"</p><p>"Maybe I have. My offer stands. Five dates, and then you're free."</p><p>"What about Bones? You've been seen a lot around her lately."</p><p>"Susan knows the limits of our relationship. She's a good friend, rarely anything more."</p><p>She shook her head. "That's it? That's all you require? Five evenings out with you?"</p><p>"Yes, but I do have conditions. I want your word that you won't half-arse it. If we're to do this, I want you to actually try and have a good time. That's not to say I want you to just lie to me and pretend to go along. I want you to be yourself and consider me your escort for five evenings. You don't have anything to lose either way, right? So, promise me to try to have fun and be an active participant, and you have yourself a deal."</p><p>"Your arrogance truly knows no bounds, Potter. Do you truly believe that five dates is all it will take to reverse my decision to void the contract? Are you truly so confident in yourself that you think that is all it will take to make me want to marry you?"</p><p>"That's not what I said." Harry shrugged. "Maybe it will, maybe it won't. Either way, we both get five great dates, and at the end of it you still get to walk away unattached. Or we can go back to you trying to threaten me, my not being threatened, and we both end up in a marriage we don't want, but I get the better end of that exchange. It's your choice."</p><p>"That is not really a choice!" she hissed. "This is blackmail, Potter."</p><p>"It's really not. It's an offer. You can take it if you want me to do what you want, or you can not. Either way is fine with me."</p><p>He let her stew on that for a few seconds, giving her time to gather her thoughts. She did eventually let out a heavy breath.</p><p>"And you promise to sign the papers if I go along with this?"</p><p>Harry nodded. "You have my word. Or do you doubt that, too?"</p><p>Daphne regarded him, lips pursed, brow furrowed. Harry found it quite cute, though he didn't voice the thought.</p><p>"No," she said eventually. "Despite all this, I find myself not doubting the worth of your word."</p><p>"I'm happy to hear that. And do I have your word to give me a chance?"</p><p>She gave a nod. "I will try to approach this endeavor with as open a mind as I can manage."</p><p>"Grand, then!" Harry offered her his hand over the desk, and she looked at it like it was offending her. After a few seconds of cheerful insistence and patience, she gave in and clasped her palm around his own, shaking it once before immediately letting go.</p><p>"When's a good time for you, then?"</p><p>Daphne thought for a few seconds. "Wednesday would suffice."</p><p>"I'll come pick you up around seven. Will that do?"</p><p>"It will."</p><p>"I'll see you Wednesday, then. I should really get back to work now. Oh, also, dress casual."</p><p>If Daphne felt at all bad for disrupting his work, she did not show it, nor did she acknowledge his last sentence. She rose from her chair, heading to the door. She opened it and took a step outside, before pausing, deliberating for a second. She half turned, looking at him over her shoulder.</p><p>"Heed my warning, Potter. This will not go the way you expect it to. One way or another, you will end up regretting it."</p><p>And she was gone, the door to his office slamming closed in her wake.</p><p>Harry's confident smile faded in tandem with the sound of her departing footsteps, until all that was left was a pensive expression.</p><p>"Perhaps I will," Harry muttered to himself, before returning to his work.</p><hr noshade="" size="1"/><p style="text-align:center;"><strong>~TMC~</strong></p>
+</div>
+</div><div style="height:5px"></div><div style="clear:both;text-align:right;"> <select id="chap_select" name="chapter" onchange="self.location = '/s/11697407/'+ this.options[this.selectedIndex].value + '/Contractual-Invalidation';" title="Chapter Navigation"><option selected="" value="1">1. How to Break Your Contract: 5 Easy Steps<option value="2">2. Step 1: Reconnaissance<option value="3">3. Step 2: Offensive Action<option value="4">4. Step 3: Tactical Reevaluation<option value="5">5. Step 3,5: Counterattack<option value="6">6. Step 4: The Element of Surprise<option value="7">7. Step 5: Victory</option></option></option></option></option></option></option></select> <button class="btn" onclick="self.location='/s/11697407/2/Contractual-Invalidation'" type="BUTTON">Next &gt;</button></div><div style="height:5px"></div>
+<script>
+    function review_init() {
+         if(XUNAME) {
+             $('#review_name').hide();
+             $('#review_postbutton').html('Post Review as ' + XUNAME);
+             $('.login_items').hide();
+             $('#alert_subs').show();
+         }
+         else {
+             $('#review_name').show();
+             //$('#review_name').html("<input type=text name='name' placeholder='Name:'>");
+
+             $('.login_items').show();
+             $('#alert_subs').hide();
+         }
+    }
+
+    //call back
+    function login_success_default() {
+        //$('#name_login').html(render_login(XUNAME));
+
+        //focus on review
+        $('#review_review').focus();
+
+        //you have now logged in
+        xtoast("You have logged-in as "+XUNAME+'.');
+
+        //close all open dialogs
+        //$('#please_login').modal('hide');
+
+
+
+    }
+
+    function login_success() {
+         login_success_default();
+         review_init();
+    }
+
+    function self_login(target) {
+        xwindow('https://www.fanfiction.net/api/login_state_proxy.php?src=popup&target='+target,450,450);
+    }
+
+    function post_q() {
+        if(!XUNAME) {
+            please_login();
+            return;
+        }
+
+        if($('#q_follow_author').prop('checked') == 0 && $('#q_follow_story').prop('checked') == 0 && $('#q_fav_author').prop('checked') == 0 && $('#q_fav_story').prop('checked') ==0) {
+            xtoast('Please select at least one follow or favorite action');
+            return;
+        }
+
+        $('#q_working').toggle();
+
+        $.post('/api/ajax_subs.php', {
+            storyid: storyid,
+            userid: userid,
+
+            authoralert: $('#q_follow_author').prop('checked') ? 1 : 0,
+            storyalert: $('#q_follow_story').prop('checked') ? 1 : 0,
+            favstory: $('#q_fav_story').prop('checked') ? 1 : 0,
+            favauthor: $('#q_fav_author').prop('checked') ? 1 : 0
+        },
+        function(data) {
+            //console.log(data);
+            //alert(data);
+            if(data.error) {
+                $('#q_working').toggle();
+
+                xtoast("We are unable to process your request due to an network error. Please try again later.");
+            }
+            else {
+                xtoast("We have successfully processed the following:" + data.payload_data,3500);
+                $('#q_working').toggle();
+                $('#follow_area').modal('hide');
+             }
+        },
+        'json'
+        ).error(function() {
+            xtoast("We are unable to process your request due to an network error. Please try again later.");
+
+            $('#q_working').toggle();
+        });
+    }
+
+    function please_login() {
+         xtoast("Please login or signup to access this feature.");
+    }
+
+    function post_review() {
+        var review = $('#review_review').val();
+        var name = $('#review_name_value') ? $('#review_name_value').val() : '';
+
+        //make sure we don't submit default
+        if(review == '') {
+            xtoast("Please type up your review for this story.");
+            return;
+        }
+
+        $('#review_postbutton').html("Posting. Please wait...");
+        $('#review_postbutton').prop('disabled',true);
+
+        $.post('/api/ajax_review.php', {
+            storyid: storyid,
+            storytextid: storytextid,
+            chapter: chapter,
+
+            authoralert: $('#review_authoralert').prop('checked') ? 1 : 0,
+            storyalert: $('#review_storyalert').prop('checked') ? 1 : 0,
+            favstory: $('#review_favstory').prop('checked') ? 1 : 0,
+            favauthor: $('#review_favauthor').prop('checked') ? 1 : 0,
+
+            name: name,
+            review: review
+        },
+        function(data) {
+            //console.log(data);
+            //alert(data);
+            if(data.error) {
+                $('#review_postbutton').html('Post Review as'+XUNAME);
+                $('#review_postbutton').prop('disabled', false);
+
+                xtoast("We are unable to post your review due to the following reason:<br><br>" + data.error_msg);
+            }
+            else {
+                xtoast("The author would like to thank you for your continued support. Your review has been posted.",3500);
+                review_success();
+            }
+        },
+        'json'
+        ).error(function() {
+            xtoast("We are unable to process your review due to an network error. Please try again later.");
+
+            $('#review_postbutton').html("Post Review as"+XUNAME);
+            $('#review_postbutton').prop('disabled', false);
+        });
+
+    }
+
+    function review_success() {
+         $('#review').hide();
+         $('#review_success').show();
+
+         //must clear textarea of auto-save would save old data
+         $('#review_review').val('');
+         
+if(!$.storage) {
+    $.storage = new $.store();
+    //console.log('new storage');
+}
+$.storage.del('review:11697407:1');
+//console.log('del review:11697407:1');
+        
+    }
+
+    function review_failure() {
+
+    }
+
+    $().ready(function() {
+        review_init();
+    });
+</script>
+<div id="review_success" style="display:none;width:500px;height:100px;clear:both;margin-right:auto;margin-left:auto;">
+    The author would like to thank you for your continued support. Your review has been posted.
+</div>
+<div id="review">
+<table border="0" cellspacing="0" padding="0" style="width:100%;"> <!-- min-width:500px;max-width:975px;clear:both;margin-right:auto;margin-left:auto;-->
+<tr>
+<td valign="top" width="336">
+</td>
+<td width="10"></td>
+<td valign="top">
+<div style="width:100%;max-width:700px;">
+<table style="width:100%;">
+<tr>
+<td colspan="2">
+<div id="review_name" style=""> <!-- min-width:500px;max-width:975px;  style='padding:0.5em;width:98%;' -->
+<input class="input-block-level" id="review_name_value" maxlength="16" name="name" placeholder="Name:" style="max-width:700px" type="text"/>
+<div style="height:4px"></div>
+</div>
+<textarea class="input-block-level" id="review_review" name="review" placeholder="Type your review for this chapter here..." rows="10" style="max-width:700px"></textarea>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle;">
+<div class="hide xcontrast_txt" id="alert_subs">
+                  Favorite :
+                  Story <input id="review_favstory" name="favstory" style="margin:-2px 0 0 0" type="checkbox"/>
+                  Author <input id="review_favauthor" name="favauthor" style="margin:-2px 0 0 0" type="checkbox"/>
+                   
+                  Follow :
+                  Story <input id="review_storyalert" name="storyalert" style="margin:-2px 0 0 0" type="checkbox"/>
+                  Author <input id="review_authoralert" name="authoralert" style="margin:-2px 0 0 0" type="checkbox"/>
+</div>
+</td>
+<td align="right">
+<!-- Split button -->
+<div class="btn-group xreset-left">
+<button class="btn icon-edit-1" id="review_postbutton" onclick="post_review();" type="button">Post Review</button>
+<button class="btn dropdown-toggle login_items" data-toggle="dropdown" type="button">
+<span class="sr-only">As</span>
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu" role="menu">
+<li><a class="xdrop_login" href="#" onclick="self_login('self');">FanFiction</a></li>
+<li><a class="xdrop_login" href="#" onclick="self_login('sister');">FictionPress</a></li>
+<li><a href="#" lass="xdrop_login" onclick="self_login('google');">Google</a></li>
+<li><a class="xdrop_login" href="#" onclick="self_login('facebook');">Facebook</a></li>
+<li><a class="xdrop_login" href="#" onclick="self_login('twitter');">Twitter</a></li>
+<li><a class="xdrop_login" href="#" onclick="self_login('amazon');">Amazon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- <div id='please_login' class='modal hide fade'></div> -->
+<script src="//ff74.b-cdn.net/static/scripts/jquery.jstore_01_09_2012.js"></script>
+<script>
+$().ready(function(){
+
+    if(!$.storage) {
+        $.storage = new $.store(); //init
+    }
+
+    var t_read = $.storage.get('review:11697407:1');
+
+    if(t_read && t_read.length > 0 ) {
+        //alert('recovered data' + t_read);
+
+        var temp = $('textarea#review_review').val(); //NO SPACES .replace(/^\s+|\s+$/g,'')
+
+        if(!temp || temp.length == 0 || temp == "Type your comments here.") {
+            //alert('set good');
+            $('textarea#review_review').val(t_read);
+            //console.log('got'+t_read);
+        }
+    }
+    else {
+        //alert('no data');
+    }
+
+    var rTimer = setInterval(saveReview, 2000); //every 2s
+
+    function saveReview() {
+        var temp = $('textarea#review_review').val();  //make sure we don't save spaces .replace(/^\s+|\s+$/g,'');
+
+        if(temp && temp.length > 0 &&  temp != "Type your comments here.") {
+            $.storage.set('review:11697407:1', temp);
+            //console.log('set'+temp);
+        }
+    }
+});
+</script>
+<div style="height:15px"></div>
+<div align="center" class="lc-wrapper"><div class="lc">
+<form name="myselect" onsubmit="return false;"><table cellpadding="4" style="min-width;400px;margin-left:auto;margin-right:auto;">
+<tr>
+<td>
+<script>
+  var storyid = 11697407;
+  var userid = 2057121;
+  var storytextid = storytextid=44723274;
+  var chapter = 1;
+  var title = 'Contractual+Invalidation';
+  var logind = 'https://www.fanfiction.net';
+
+
+function select_drop(sel_value) {
+  var t;
+
+  if (sel_value == 'abuse') {
+      t = xwindow(logind+'/report.php?chapter='+chapter+'&storyid='+storyid+'&title='+title,560,510);
+  }
+  else if (sel_value == 'c2') {
+     t = xwindow(logind+'/c2_addstory.php?action=add&storyid='+storyid,560,470);
+  }
+}
+</script>
+<div class="btn-group" id="story_actions">
+<div align="left" class="btn-group dropup">
+<button class="btn dropdown-toggle" data-toggle="dropdown">
+<span>Actions</span>
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu">
+<li><a onclick="select_drop('c2')">Add to Community</a></li>
+<li><a onclick="select_drop('abuse')">Report Abuse</a></li>
+</ul>
+</div>
+</div>
+<div class="btn-group" id="share_providers">
+<div align="left" class="btn-group dropup">
+<button class="btn dropdown-toggle" data-toggle="dropdown">
+<span class="icon-share"> Share</span>
+</button>
+<ul class="dropdown-menu">
+<li><a href="//plus.google.com/share?url=https%3A%2F%2Fwww.fanfiction.net%2Fs%2F11697407%2F1%2F" target="_new">Google+</a></li>
+<li><a href="//twitter.com/home?status=Reading+story%3A+https%3A%2F%2Fwww.fanfiction.net%2Fs%2F11697407%2F1%2F" target="_new">Twitter</a></li>
+<li><a href="//www.tumblr.com/share/link?url=https%3A%2F%2Fwww.fanfiction.net%2Fs%2F11697407%2F1%2F" target="_new">Tumblr</a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.fanfiction.net%2Fs%2F11697407%2F1%2F" target="_new">Facebook</a></li>
+</ul>
+</div>
+</div>
+<button class="btn icon-heart" onclick='$("#follow_area").modal();' type="button"> Follow/Favorite</button>
+<style>
+    label input[type=checkbox]{
+        position: relative;
+        vertical-align: middle;
+        bottom: -5px;
+    }
+</style>
+<div class="modal fade hide" id="follow_area">
+<div class="modal-body">
+<center>
+<table style="padding:6px;color:black !important;">
+<tr><td valign="top">
+        + Follow
+        <hr/>
+<label class="checkbox">
+<input id="q_follow_story" type="checkbox"/> Story
+           </label>
+<label class="checkbox">
+<input id="q_follow_author" type="checkbox"/> Writer
+           </label>
+</td>
+<td width="20"></td>
+<td valign="top">
+        + Favorite
+        <hr/>
+<label class="checkbox">
+<input id="q_fav_story" type="checkbox"/> Story
+           </label>
+<label class="checkbox">
+<input id="q_fav_author" type="checkbox"/> Writer
+           </label>
+</td>
+</tr>
+</table>
+</center>
+</div>
+<div class="modal-footer">
+<span class="btn pull-left" data-dismiss="modal">Close</span>
+<span class="hide" id="q_working">Working...  </span>
+<span class="btn btn-primary" onclick="post_q();">Save</span>
+</div>
+</div>
+</td>
+</tr>
+</table></form>
+</div></div>
+<div style="height:5px"></div></div></div></div><div class="maxwidth" id="p_footer" style="clear:all;padding:1em 0 1em 0;"><div style="text-align:center"><a href="/support/">Help</a> . <a href="/cookies/">Cookies</a>  . <a href="/privacy/">Privacy</a> . <a href="/tos/">Terms of Service</a>  . <a href="#top">Top</a></div><div style="height:10px"></div><div style="text-align:center"><a href="//www.twitter.com/fictionpress"><span class="icon-twitter-3" style="color:rgb(104, 100, 100);font-size:18px;height:20px;width:20px;"></span></a></div><div style="height:15px"></div></div>
+<script>
+$(function() {
+    $('img.lazy').lazyload({
+        //skip_invisible : false
+    });
+});
+</script>
+<style>
+    .hv_center {
+        bottom: 0px;
+        position: fixed;
+        left: 0;
+        right: 0;
+        height: 55px;
+        background-color: #363636;
+        color: #e4e4e4;
+
+        /* IE 10 */
+        display:-ms-flexbox;
+        -ms-flex-pack:center;
+        -ms-flex-align:center;
+
+        /* FF */
+        display:-moz-box;
+        -moz-box-pack:center;
+        -moz-box-align:center;
+
+        /* Safari, Opera, and Chrome */
+        display:-webkit-box;
+        -webkit-box-pack:center;
+        -webkit-box-align:center;
+    }
+
+    #cookie_notice {
+        font-size: 0.9em;
+    }
+    #cookie_notice a:link, 
+    #cookie_notice a:hover, 
+    #cookie_notice a:active, 
+    #cookie_notice a:visited {
+        color: #e4e4e4;
+        text-decoration: underline;
+    }
+</style>
+<script>
+    var _cookie_policy = 'cookies';
+
+    //cookie functions
+    function _sCookieGet(cookieName) {
+        var theCookie=""+document.cookie;
+        var ind=theCookie.indexOf(cookieName);
+        if (ind==-1 || cookieName=="") return false;
+        var ind1=theCookie.indexOf(';',ind);
+        if (ind1==-1) ind1=theCookie.length;
+        return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+    };
+    function _sCookieSet(NameOfCookie, value, expirehours, path, domain) {
+        if(!path)  path = "/";
+        var ExpireDate = new Date ();
+        ExpireDate.setTime(ExpireDate.getTime() + (expirehours * 3600 * 1000));
+        document.cookie = NameOfCookie + "=" + escape(value) + (!expirehours ? "" : "; expires=" + ExpireDate.toGMTString()) + "; path="+path+";" +(!domain ? "" : "domain=" + domain + ";");
+    };
+
+    function _cookieAccept() {
+        _sCookieSet(_cookie_policy,'yes',365 * 24,'/');
+        document.getElementById('cookie_notice').style.display = 'none';
+    }
+
+    var c = _sCookieGet(_cookie_policy)
+
+    if(c != "yes") {
+        document.write("<div id='cookie_notice' class='hv_center'>" +
+            "    <div style='padding-left:50px;padding-right:50px'>" +
+            "        <table>" +
+            "            <tr>" +
+            "                <td> We use cookies. By using our services, you acknowledge that you have read and accept our <a href='/cookies/'>Cookies</a> & <a href='/privacy/'>Privacy</a> Policies.</td>" +
+            "                <td><div style='border:1px whitesmoke solid;padding:5px;margin-left:10px;cursor: pointer;' onClick='_cookieAccept()'>Accept</div></td>" +
+            "            </tr>" +
+            "        </table>" +
+            "    </div>" +
+            "</div>");
+    }
+</script>
+</body></html>

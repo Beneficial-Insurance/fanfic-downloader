@@ -30,11 +30,12 @@ def download_fanfic(message):
         #Do I have to do this or can regex search whatever the data is before I turn it into a string? I have no clue, and I don't care.
         check = str((res.text.encode('utf8')))
         #Searches for the Story Not Found text that happens when a fic is requested that doesn't exist. There is probably a better way to do this but eh
-        if re.search('Story Not Found', check) is None:
+        if re.search('Story Not Found', check) == None:
             print('Hi')
             return fanfiction_soup
         else:
             print('ERROR The URL requested does not have a fanfic on it.\nStopping Download')
+            return -1
             exit()
     else:
         print('Something wen\'t wrong.')
@@ -50,13 +51,18 @@ def get_text():
     print_text = re.sub('<.*[^ ]>', '', print_text)
     return print_text
 def get_title():
-    print_title = str(fanfiction_soup.select(''))
+    #print(fanfiction_soup)
+    print(type(fanfiction_soup))
+    print(str(fanfiction_soup))
+    print(type(str(fanfiction_soup)))
 #Save file as... ./fanfic
 def save_file():
     text_file = open("HarryAndDaphne.txt", "w")
-    n = text_file.write(print_text)
+    n = text_file.write(str(fanfiction_soup))
     text_file.close
+    print("Done")
 #I suppose this is where init main() goes in c?
 fanfiction_soup = download_fanfic('Please enter the url of the fanfic that you want to download \n')
 print_text = get_text()
+get_title()
 save_file()
